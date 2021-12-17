@@ -1,0 +1,119 @@
+* Common Setup
+** OS Appearance
+- Settings -> Appearance
+  + Window colors: Dark
+  + Dock: Icon size: 24
+  + Dock: Show on: All displays
+  + Dock: Position on screen: Bottom
+- Settings -> Power
+  + Blank Screen: Never
+
+** Packages
+#+NAME: Build essential
+#+BEGIN_SRC shell
+sudo apt update
+sudo apt install build-essential
+#+END_SRC
+
+#+NAME: Git
+#+BEGIN_SRC shell
+sudo apt-get install git
+git config --global user.name "<your name>"
+git config --global user.email "<your email>"
+#+END_SRC
+
+
+** TODO Firefox setup
+
+
+** TODO Zsh
+** TODO Wireshark
+** Setup ssh keys
+
+- Generate keys
+#+NAME: Generating ssh keys
+#+BEGIN_SRC shell
+ssh-keygen -t ed25519 -C "fullpointerxception@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "email@email.com"
+#+END_SRC
+
+- Add key to bitbucket
+- Add key to github
+
+* Automated Setup
+#+NAME: Ubuntu scripted setup
+#+BEGIN_SRC shell
+cd ~
+git clone git@github.com:FullPointerException/dotfiles.git
+cd dotfiles
+sudo ./install.sh
+#+END_SRC
+
+* QGC Development Setup
+[[https://dev.qgroundcontrol.com/master/en/getting_started/][QGC dev website]]
+
+*** Serial device requirements
+These require a logout after setting, which is annoying so might as well do them first.
+
+#+NAME: QGC dialout
+#+BEGIN_SRC shell
+sudo usermod -a -G dialout $USER
+sudo apt-get remove modemmanager
+#+END_SRC
+
+*** Qt
+
+Download the [[http://www.qt.io/download-open-source][Qt Online Installer]]. Make executable and run. When selecting verions, ensure you have the following (Use the Archive checkbox to make 5.12.6 appear):
+- Qt 5.12.6
+  - Desktop gcc 64-bit
+  - Qt Charts
+  - Qt Virtual Keyboard
+  - Android ARMv7
+- Developer and Designer Tools
+  - CMake
+  - Ninja
+  - OpenSSL
+
+*** Build Qt OpenSSL
+#+NAME: QGC OpenSSL
+#+BEGIN_SRC shell
+cd ~/Qt/Tools/OpenSSL/src
+./config
+make
+make test
+sudo make install
+mkdir ../binary
+mkdir ../binary/lib
+cp libcrypto.so.1.1 ../binary/lib
+cp libssl.so.1.1 ../binary/lib
+#+END_SRC
+
+*** Additional packages
+#+NAME: QGC Additional Ubuntu Packages
+#+BEGIN_SRC shell
+  sudo apt-get install speech-dispatcher libudev-dev libsdl2-dev patchelf
+#+END_SRC
+
+Note: following the instructions on the vidoe page result in trying to install gstreamer1.0-python3-dbg-plugin-loader and gstreamer1.0-python3-plugin-loader which conflict with one another. Instead do the following:
+#+NAME: QGC Video Packages
+#+BEGIN_SRC shell
+sudo apt-get install gstreamer1.0-alsa gstreamer1.0-clutter-3.0 gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-packagekit gstreamer1.0-plugins-base gstreamer1.0-plugins-base-apps gstreamer1.0-plugins-base-dbg gstreamer1.0-plugins-good gstreamer1.0-pulseaudio gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-adapter-pulseeffects gstreamer1.0-autogain-pulseeffects gstreamer1.0-convolver-pulseeffects gstreamer1.0-crystalhd gstreamer1.0-crystalizer-pulseeffects gstreamer1.0-espeak gstreamer1.0-libav gstreamer1.0-libav-dbg gstreamer1.0-nice gstreamer1.0-omx-bellagio-config gstreamer1.0-omx-generic gstreamer1.0-omx-generic-config gstreamer1.0-opencv gstreamer1.0-pipewire gstreamer1.0-plugins-bad gstreamer1.0-plugins-bad-dbg gstreamer1.0-plugins-good-dbg gstreamer1.0-plugins-rtp gstreamer1.0-plugins-ugly gstreamer1.0-plugins-ugly-dbg gstreamer1.0-pocketsphinx gstreamer1.0-python3-dbg-plugin-loader gstreamer1.0-qt5 gstreamer1.0-rtsp gstreamer1.0-rtsp-dbg gstreamer1.0-vaapi
+sudo apt-get install libgstreamer-plugins-base1.0-dev
+sudo apt-get install libgstreamer-plugins-bad1.0-dev
+#+END_SRC
+
+*** TODO Qt Android Setup
+
+*** Clone repository
+Note: we clone into a sub directory, because the project defaults build folders as a sibling to the git project
+#+NAME: Clone QGC repo
+#+BEGIN_SRC shell
+cd ~/work
+mkdir <repo_name>
+cd <repo_name>
+git clone --recursive git@<repo_source>.git qgc
+#+END_SRC
+*** Open in Qt creator
+Open the project at ~/work/<repo_name>/qgc/qgroundcontrol.pro
+Configure the kits
+Click build
