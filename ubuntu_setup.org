@@ -9,11 +9,21 @@
   + Blank Screen: Never
 
 ** Packages
-#+NAME: Build essential
+#+NAME: Apt coding tools
 #+BEGIN_SRC shell
 sudo apt update
 sudo apt install build-essential
+sudo apt install python2
+sudo apt install fonts-firacode
+sudo apt install fonts-cantarell
 #+END_SRC
+
+#+NAME: Wireshark
+#+BEGIN_SRC shell
+sudo apt-get install wireshark
+sudo usermod -aG wireshark $(whoami)
+#+END_SRC
+After running this, reboot before wireshark can be run
 
 #+NAME: Git
 #+BEGIN_SRC shell
@@ -27,7 +37,6 @@ git config --global user.email "<your email>"
 
 
 ** TODO Zsh
-** TODO Wireshark
 ** Setup ssh keys
 
 - Generate keys
