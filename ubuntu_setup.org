@@ -112,6 +112,22 @@ sudo apt-get install libgstreamer-plugins-bad1.0-dev
 #+END_SRC
 
 *** TODO Qt Android Setup
+**** OpenJDK
+Use version 8 (the Qt docs are a little unclear, in one place they say 11 or earlier, but in another they say newer than 8 may cause problems)
+#+NAME: Open JDK install
+#+BEGIN_SRC shell
+sudo apt install openjdk-8-jdk
+#+END_SRC
+
+Inside Qt Creator
+Tools > Options > Devices > Android
+Select the open jdk /usr/lib/jvm/java-8-openjdk-amd64
+Click Set Up SDK
+Install necessary packages
+Accept Licenses
+Once this is complete, check the version. It likely grabbed the wrong one, we need 19.2
+Download the gstreamer from here: [[https://gstreamer.freedesktop.org/data/pkg/android/1.14.4/gstreamer-1.0-android-universal-1.14.4.tar.bz2][gstreamer-1.0-android-universal-1.14.4.tar.xz]]
+Create a directory named "gstreamer-1.0-android-universal-1.14.4" under the root qgroundcontrol directory (the same directory qgroundcontrol.pro is located). Extract the downloaded archive under this directory.
 
 *** Clone repository
 Note: we clone into a sub directory, because the project defaults build folders as a sibling to the git project
