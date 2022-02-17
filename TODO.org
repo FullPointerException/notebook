@@ -1,0 +1,2 @@
+ - add graphvix to install intstructions
+ - add dash-to-panel to install instructions
