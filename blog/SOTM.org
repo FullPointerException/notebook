@@ -1,0 +1,36 @@
+* Post 1 Getting Started
+** Resource Links
+   - [[https://steamcommunity.com/app/337150/workshop/][Steam Workshop]]
+   - [[https://sentinelsdigital.com/workshop][Handelabra Page]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vSWcmz_Popqw1w7rS-Nq0WxGPkt_JFF1SSUCOojz_t2A94lD6tYs15P_c2h09NIRrrhmo4ElKz3NhfS/pub][SotM Steam Workshop Policy]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vRvUNq-KAWwLdvQmhjpFp-dC6s7ZJqogQJFIFfCZrhJ6_kuS9yi5KG-OmEU3g2NqsB0zkMS0KPtTC5V/pub][Engine Documentation]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vRkxp2p6WK3kOgJnaNscV46I9s0id7GUnl0BG4zrNV1PAbVm3-6HXmVD8fGAg9GQbRTzmAo7csb0_H3/pub][Resource Guidelines]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vR6Ai7_ifN0A_Qeb8AG1KbESDLoinblEe6oaq_RCXAvaRiW_6MfSNjgcBSmKrU20qKLRQZJgByks-PQ/pub][Packaging Guidelines]]
+   - [[https://trello.com/b/vYBMImbg/sotm-workshop][Trello Board (Backlog)]]
+
+   - Create Repo
+
+   - Hero variant
+   - New hero
+
+Notes:
+   (If you decompile the sentinelsengine.dll file in the game's folder, you can look at all the official cards and how they work
+ILspy is a good tool for that)
+
+
+* Post 2 Tester Environment and Villain
+	- Blank environment
+	- Blank villain
+		+ High HP
+		+ Blank Deck
+			- Mix of equip / ongoing / target / oneshots that do nothing
+	- Helpful variant
+		+ High HP
+		+ Card effect to have heroes draw all their cards
+	- Accelerate variant
+		+ Card effect to play villain cards
+	- Environmentalist variant
+		+ Card effect to play environment cards
+
+* Post 3 Exploring the unit tests
+  - Check out unit tests
