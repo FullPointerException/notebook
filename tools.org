@@ -8,7 +8,7 @@ This is a collection of notes on various software tools
 * Emacs
 ** Navigation
 *** Opening a file
-C-x C-f opens find file
+	C-x C-f opens find file
 *** File navigation
 | Behavior  | Forward | Reverse |
 |-----------+---------+---------|
@@ -17,25 +17,25 @@ C-x C-f opens find file
 | Character | C-f     | C-b     |
 |           |         |         |
 *** Buffers 
-C-x C-b opens buffer menu in new window
-C-x o switches to that window
+	C-x C-b opens buffer menu in new window
+	C-x o switches to that window
 *** Windows
-C-x o switches windows
-C-x 0 kills the current windo
-C-x 3 opens a second window vertically
+	C-x o switches windows
+	C-x 0 kills the current windo
+	C-x 3 opens a second window vertically
 ** Keyboard shortcuts
 
 
 ** Org mode
 *** Keyboard shortcuts
-S-Left / S-Right: Cycle TODOs
-M-Left/M-Right: Increase/Decrease Header level
-Tab: Expand cycle
-S-Tab: Global expand cycle
+	S-Left / S-Right: Cycle TODOs
+	M-Left/M-Right: Increase/Decrease Header level
+	Tab: Expand cycle
+	S-Tab: Global expand cycle
 
 *** TODO Babel Integration
 
 * PX4
 ** Commander
-commander arm
-commander takeoff
+	commander arm
+	commander takeoff

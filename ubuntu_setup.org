@@ -10,7 +10,7 @@
 
 ** Packages
 #+NAME: Apt coding tools
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt update
 sudo apt install build-essential
 sudo apt install python2
@@ -20,14 +20,14 @@ sudo apt install fonts-cantarell
 #+END_SRC
 
 #+NAME: Wireshark
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt-get install wireshark
 sudo usermod -aG wireshark $(whoami)
 #+END_SRC
 After running this, reboot before wireshark can be run
 
 #+NAME: Dash to panel
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt install gnome-tweaks
 sudo apt install gnome-shell-extension-dash-to-panel
 #+END_SRC
@@ -46,25 +46,25 @@ Turn on open to open the previous pages
 ** Sublime
 Install the GPG key:
 #+NAME: Sublime GPG key
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
 #+END_SRC
 
 Ensure apt is set up to work with https sources:
 #+NAME: Sublime apt https
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt-get install apt-transport-https
 #+END_SRC
 
 Select the channel to use:
 #+NAME Sublime channel
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 #+END_SRC
 
 Update apt sources and install Sublime Text
 #+NAME Sublime install
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt-get update
 sudo apt-get install sublime-text
 #+END_SRC
@@ -93,7 +93,7 @@ TODO: Specific linters
 
 - Generate keys
 #+NAME: Generating ssh keys
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 ssh-keygen -t ed25519 -C "fullpointerxception@gmail.com"
 ssh-keygen -t rsa -b 4096 -C "email@email.com"
 #+END_SRC
@@ -103,7 +103,7 @@ ssh-keygen -t rsa -b 4096 -C "email@email.com"
 
 * Automated Setup
 #+NAME: Ubuntu scripted setup
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 cd ~
 git clone git@github.com:FullPointerException/dotfiles.git
 cd dotfiles
@@ -117,7 +117,7 @@ sudo ./install.sh
 These require a logout after setting, which is annoying so might as well do them first.
 
 #+NAME: QGC dialout
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo usermod -a -G dialout $USER
 sudo apt-get remove modemmanager
 #+END_SRC
@@ -137,7 +137,7 @@ Download the [[http://www.qt.io/download-open-source][Qt Online Installer]]. Mak
 
 *** Build Qt OpenSSL
 #+NAME: QGC OpenSSL
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 cd ~/Qt/Tools/OpenSSL/src
 ./config
 make
@@ -151,13 +151,13 @@ cp libssl.so.1.1 ../binary/lib
 
 *** Additional packages
 #+NAME: QGC Additional Ubuntu Packages
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
   sudo apt-get install speech-dispatcher libudev-dev libsdl2-dev patchelf
 #+END_SRC
 
 Note: following the instructions on the vidoe page result in trying to install gstreamer1.0-python3-dbg-plugin-loader and gstreamer1.0-python3-plugin-loader which conflict with one another. Instead do the following:
 #+NAME: QGC Video Packages
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt-get install gstreamer1.0-alsa gstreamer1.0-clutter-3.0 gstreamer1.0-gl gstreamer1.0-gtk3 gstreamer1.0-packagekit gstreamer1.0-plugins-base gstreamer1.0-plugins-base-apps gstreamer1.0-plugins-base-dbg gstreamer1.0-plugins-good gstreamer1.0-pulseaudio gstreamer1.0-tools gstreamer1.0-x gstreamer1.0-adapter-pulseeffects gstreamer1.0-autogain-pulseeffects gstreamer1.0-convolver-pulseeffects gstreamer1.0-crystalhd gstreamer1.0-crystalizer-pulseeffects gstreamer1.0-espeak gstreamer1.0-libav gstreamer1.0-libav-dbg gstreamer1.0-nice gstreamer1.0-omx-bellagio-config gstreamer1.0-omx-generic gstreamer1.0-omx-generic-config gstreamer1.0-opencv gstreamer1.0-pipewire gstreamer1.0-plugins-bad gstreamer1.0-plugins-bad-dbg gstreamer1.0-plugins-good-dbg gstreamer1.0-plugins-rtp gstreamer1.0-plugins-ugly gstreamer1.0-plugins-ugly-dbg gstreamer1.0-pocketsphinx gstreamer1.0-python3-dbg-plugin-loader gstreamer1.0-qt5 gstreamer1.0-rtsp gstreamer1.0-rtsp-dbg gstreamer1.0-vaapi
 sudo apt-get install libgstreamer-plugins-base1.0-dev
 sudo apt-get install libgstreamer-plugins-bad1.0-dev
@@ -167,7 +167,7 @@ sudo apt-get install libgstreamer-plugins-bad1.0-dev
 **** OpenJDK
 Use version 8 (the Qt docs are a little unclear, in one place they say 11 or earlier, but in another they say newer than 8 may cause problems)
 #+NAME: Open JDK install
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 sudo apt install openjdk-8-jdk
 #+END_SRC
 
@@ -184,7 +184,7 @@ Create a directory named "gstreamer-1.0-android-universal-1.14.4" under the root
 *** Clone repository
 Note: we clone into a sub directory, because the project defaults build folders as a sibling to the git project
 #+NAME: Clone QGC repo
-#+BEGIN_SRC shell
+#+BEGIN_SRC sh
 cd ~/work
 mkdir <repo_name>
 cd <repo_name>
