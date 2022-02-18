@@ -1,2 +1,7 @@
+* Tasks
  - add graphvix to install intstructions
  - add dash-to-panel to install instructions
+
+* Things to investigate
+  + nlohmann json
+  + Onshape (3d cad tool)
