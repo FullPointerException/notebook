@@ -1,12 +1,12 @@
 * Common Setup
 ** OS Appearance
-- Settings -> Appearance
-  + Window colors: Dark
-  + Dock: Icon size: 24
-  + Dock: Show on: All displays
-  + Dock: Position on screen: Bottom
-- Settings -> Power
-  + Blank Screen: Never
+  - Settings -> Appearance
+    + Window colors: Dark
+    + Dock: Icon size: 24
+    + Dock: Show on: All displays
+    + Dock: Position on screen: Bottom
+  - Settings -> Power
+    + Blank Screen: Never
 
 ** Packages
 #+NAME: Apt coding tools
