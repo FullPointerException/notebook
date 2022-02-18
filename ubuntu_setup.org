@@ -38,6 +38,7 @@ Restart your computer, and enablee in the Gnome Tweaks tab
 sudo apt-get install git
 git config --global user.name "<your name>"
 git config --global user.email "<your email>"
+git config --global core.editor vi
 #+END_SRC
 
 ** Firefox
