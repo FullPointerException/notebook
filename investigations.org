@@ -16,7 +16,7 @@
 	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/2df2689a8517add1ad53ce68749639ef95275cf7][pid tuning: add page for FW TECS tuning]]
 	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
 	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [x] PX4TuningComponentCompter.qml [7/7]
+** [x] PX4TuningComponentCopter.qml [7/7]
 	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a51f13971f6e3bd7ff0450ec005354a44289f9bc][PX4 MC PID tuning page: minimal working version]]
 	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a000653e39c7e9c96615ae4bc5a39580863dab18][PX4 MC PID tuning page: remover hover+sliders & make advanced the default]]
 	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/30cff8084fadc12dbfab602bfc72e3c47f1a28b6][refactor PIDTuning: make it more generic, allowing to configure plot axes]]
