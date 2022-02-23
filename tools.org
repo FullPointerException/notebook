@@ -35,7 +35,18 @@
 
 *** TODO Babel Integration
 
+* Sublime
+** Org
+	- Alt+o, i, h -> new heading
+	- Alt+o, i, c -> new subheading
+	- Alt+o, c, s -> checklist summary
+	- Alt+o, t -> toggle
+	- Ctrl+Enter -> insert new heading/list element/ etc.
 * PX4
 ** Commander
 	commander arm
 	commander takeoff
+* Git
+** Tagging
+   git tag git v1.2
+   git push origin --tags
