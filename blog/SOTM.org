@@ -1,0 +1,183 @@
+* Post 1 Getting Started
+** Resource Links
+   - [[https://steamcommunity.com/app/337150/workshop/][Steam Workshop]]
+   - [[https://sentinelsdigital.com/workshop][Handelabra Page]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vSWcmz_Popqw1w7rS-Nq0WxGPkt_JFF1SSUCOojz_t2A94lD6tYs15P_c2h09NIRrrhmo4ElKz3NhfS/pub][SotM Steam Workshop Policy]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vRvUNq-KAWwLdvQmhjpFp-dC6s7ZJqogQJFIFfCZrhJ6_kuS9yi5KG-OmEU3g2NqsB0zkMS0KPtTC5V/pub][Engine Documentation]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vRkxp2p6WK3kOgJnaNscV46I9s0id7GUnl0BG4zrNV1PAbVm3-6HXmVD8fGAg9GQbRTzmAo7csb0_H3/pub][Resource Guidelines]]
+   - [[https://docs.google.com/document/d/e/2PACX-1vR6Ai7_ifN0A_Qeb8AG1KbESDLoinblEe6oaq_RCXAvaRiW_6MfSNjgcBSmKrU20qKLRQZJgByks-PQ/pub][Packaging Guidelines]]
+   - [[https://trello.com/b/vYBMImbg/sotm-workshop][Trello Board (Backlog)]]
+
+   - Create Repo
+
+   - Hero variant
+   - New hero
+   - New environment
+   - Villain Variant
+   - Team Villain Variant
+   - Scion variant
+   - Shield variant
+   - oblivaeon variant
+
+Notes:
+   (If you decompile the sentinelsengine.dll file in the game's folder, you can look at all the official cards and how they work
+ILspy is a good tool for that)
+
+
+* Post 2 Tester Environment and Villain
+	- Blank environment
+	- Blank villain
+		+ High HP
+		+ Blank Deck
+			- Mix of equip / ongoing / target / oneshots that do nothing
+	- Helpful variant
+		+ High HP
+		+ Card effect to have heroes draw all their cards
+	- Accelerate variant
+		+ Card effect to play villain cards
+	- Environmentalist variant
+		+ Card effect to play environment cards
+
+* Post 3 Exploring the unit tests
+  - Check out unit tests
+
+* Villains
+	- Kraken
+  - Roulette
+  	- 4 cards that rank up/down
+
+* Environments
+  - Casino land
+
+* Heroes
+** Cheaty Combo Guy [0/40]
+	- Levels Up, HP changes
+	- Power: Level up a card in play
+	- Variant: Search for a card and put into hand
+	- Variant: Do damage based on level
+	- [ ] Level Up!
+		- One-shot
+		- Increases a target's level
+	- [ ] Level Up!
+	- [ ] Level Up!
+	- [ ] Equipment Guard
+		- Ongoing
+		- Equipment cannot be destroyed
+	- [ ] Target Guard
+		- Equipment
+		- Targets cannot be damaged
+	- [ ] Ongoing guard
+		- 5 HP
+		- Ongoing cannot be destroyed
+	- [ ] Shield A
+		- Equipment
+	- [ ] Shield B
+		- Ongoing
+	- [ ] Shield C
+		- 1 HP
+	- [ ] Draw Beacon
+	- [ ] Draw Beacon
+	- [ ] Draw Beacon
+	- [ ] Heal Beacon
+	- [ ] Heal Beacon
+	- [ ] Heal Beacon
+	- [ ] Level Beacon
+	- [ ] Level Beacon
+	- [ ] Level Beacon
+	- [ ] Damage Beacon
+	- [ ] Damage Beacon
+	- [ ] Damage Beacon
+	- [ ] Powers Beacon
+	- [ ] Powers Beacon
+	- [ ] Powers Beacon
+	- [ ] Plays Beacon
+	- [ ] Plays Beacon
+	- [ ] Plays Beacon
+	- [ ] Auto-Turret
+	- [ ] Auto-Turret
+	- [ ] Auto-Turret
+	- [ ] Manual Gun
+	- [ ] Manual Gun
+	- [ ] Manual Gun
+	- [ ] Manual AoE
+	- [ ] Manual AoE
+	- [ ] Manual AoE
+	- [ ] Environment Destroyer
+	- [ ] Environment Destroyer
+	- [ ] Ongoing Destroyer
+	- [ ] Ongoing Destroyer
+
+
+** Octopus [0/1]
+	- [ ] Tentacle
+
+** Apprentice Mage [0/33]
+	- [ ] Staff
+		- Limited
+		- Equipment
+		- Increase damage by 1
+		- Power: Use a spell
+	- [ ] Orb
+		- Limited
+		- Equipment
+		- Use an extra power each turn
+	- [ ] Spellbook
+		- Limited
+		- Equipment
+		- End of turn: level up a spell in your hand
+		- Power: Draw a card
+	- [ ] Cloak of resistance
+		- Limited
+		- Equipment
+		- Reduce damage taken by 1
+	- [ ] Ring of spell storing
+		- Equipment
+		- The first time a spell would enter your discard pile each turn, put it back in your hand
+	- [ ] Healing Potion
+		- Equipment
+		- Power: Destroy this. Heal HP.
+	- [ ] Healing Potion
+	- [ ] Healing Potion
+	- [ ] Scroll
+		- Equipment
+		- Power: Destroy this. Reveal from deck until spell and play it.
+	- [ ] Scroll
+	- [ ] Scroll
+	- [ ] Rest
+		- Ongoing
+		- At the start of your turn, draw a card and return a spell to your hand
+		- If you take damage, destroy this
+	- [ ] Loot the dungeon
+		- One shot
+		- Reveal from the deck until you get an equipment, put it into play
+		- You may play a spell
+	- [ ] Loot the dungeon
+	- [ ] Loot the dungeon
+	- [ ] Fire lv X
+		- One-shot
+		- Spell
+	- [ ] Ice lv X
+	- [ ] Lightning lv X
+	- [ ] Acid lv X
+	- [ ] Sonic lv X
+	- [ ] Psychic lv X
+	- [ ] Radiant lv X
+	- [ ] Infernal lv X
+	- [ ] Energy lv X
+	- [ ] Projectile lv X
+	- [ ] Shield lv X
+	- [ ] Summon Monster lv X
+	- [ ] Chain Spell
+		- Once-shot
+		- Spell
+		- Play two spells
+	- [ ] Chain Spell
+	- [ ] Chain Spell
+	- [ ] Kick in the door
+		- Once-shot
+		- Play the top card of the villain deck
+		- Draw a card
+		- Level up a card in hand
+		- You may play 'Loot the Dungeon'
+	- [ ] Kick in the door
+	- [ ] Kick in the door
