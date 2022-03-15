@@ -1,0 +1,30 @@
+* Character Card
+* Deck  [0/15]
+  - [ ] Hold Person
+  	- Ongoing
+  	- Put into play beside the character with the most HP
+  	- That hero cannot play cards
+  	- That hero cannot use powers
+  	- At the start of the Villain turn, that hero may discard {H} cards. If they do, destroy this card.
+  - [ ] Hold Person
+  - [ ] Cloudkill
+  	- Ongoing
+  	- At the start of the Villain turn, deal 1 toxic damage to all non-undead targets
+  	- When a hero plays a card, deal them 1 toxic damage
+  	- When a hero uses a power, deal them 1 toxic damage
+  - [ ] Cloudkill
+  - [ ] Ring of Protection
+  	- Relic
+  	- Reduce damage dealt to Lich by 1
+  - [ ] Ring of Protection
+  	- Relic
+  	- Reduce damage dealt to Lich by 1
+  - [ ] Zombie
+  - [ ] Zombie
+  - [ ] Zombie
+  - [ ] Skeleton
+  - [ ] Skeleton
+  - [ ] Skeleton
+  - [ ] Raise Dead
+  - [ ] Raise Dead
+  - [ ] Raise Dead

@@ -1,77 +1,10 @@
 * Windows boot time
 	- [ ] [[https://superuser.com/questions/1081485/windows-10-boot-suddenly-takes-10-20-minutes][Stack overflow page]]
 
-* PID Tuning
-** [x] PX4TuningComponent.cc [5/5]
-	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a51f13971f6e3bd7ff0450ec005354a44289f9bc][PX4 MC PID tuning page: minimal working version]]
-	- [x] 2021-02-15 [[https://github.com/mavlink/qgroundcontrol/commit/77a0420a00aa29e5ecf1b0135698e72162f25c22][MC PX4: add flight behavior config page]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/2df2689a8517add1ad53ce68749639ef95275cf7][pid tuning: add page for FW TECS tuning]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/1190d91da01f21d2384cebdabdeafc81f1db7c28][pid tuning: disable fixed-wing for now (not finished yet)]]
-** [x] PX4TuningComponentVtol.qml [3/3]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/1190d91da01f21d2384cebdabdeafc81f1db7c28][pid tuning: disable fixed-wing for now (not finished yet)]]
-** [x] PX4TuningComponentPlane.qml [3/3]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/2df2689a8517add1ad53ce68749639ef95275cf7][pid tuning: add page for FW TECS tuning]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [x] PX4TuningComponentCopter.qml [7/7]
-	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a51f13971f6e3bd7ff0450ec005354a44289f9bc][PX4 MC PID tuning page: minimal working version]]
-	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a000653e39c7e9c96615ae4bc5a39580863dab18][PX4 MC PID tuning page: remover hover+sliders & make advanced the default]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/30cff8084fadc12dbfab602bfc72e3c47f1a28b6][refactor PIDTuning: make it more generic, allowing to configure plot axes]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/98507f78bee824fdb7c517767a6435a395249864][mc pid tuning: add tab for velocity controller]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/4589f543bfa4b6dd5142103d00c915104272b2df][mc pid tuning: add mc attitude and position controllers]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [x] PX4TuningComponentPlaneAll.qml [2/2]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [-] PX4TuningComponentCopterAll.qml [2/3]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/dcd64a5c4551048299f9f226dfcafe67d3ceb07c][pid tuning: add vtol]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-	- [ ] 2021-12-14 [[https://github.com/mavlink/qgroundcontrol/commit/187dfbfd20f0e9977421d0ddeec3e0d3d3751c2a][pid tuning: save & restore autotuning checkbox when switching between tabs]]
-** [x] PX4TuningComponentPlaneTECS.qml [2/2]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/2df2689a8517add1ad53ce68749639ef95275cf7][pid tuning: add page for FW TECS tuning]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [-] PX4TuningComponentCopterRate.qml [4/5]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/98507f78bee824fdb7c517767a6435a395249864][mc pid tuning: add tab for velocity controller]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/128f22dd2c40a5437f2d59bf320a751c287e2dfa][pid tuning: add MPC_POS_MODE, MC_AIRMODE and THR_MDL_FAC params]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/339006bf641ecdd13da5fe6bca5942bcdb489057][pid tuning: show automatic flight mode change only for rate tuning and stop the pilot when enabling the option]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-	- [ ] 2021-12-14 [[https://github.com/mavlink/qgroundcontrol/commit/187dfbfd20f0e9977421d0ddeec3e0d3d3751c2a][pid tuning: save & restore autotuning checkbox when switching between tabs]]
-** [-] PX4TuningComponentCopterAttitude.qml [2/3]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/4589f543bfa4b6dd5142103d00c915104272b2df][mc pid tuning: add mc attitude and position controllers]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-	- [ ] 2021-12-14 [[https://github.com/mavlink/qgroundcontrol/commit/187dfbfd20f0e9977421d0ddeec3e0d3d3751c2a][pid tuning: save & restore autotuning checkbox when switching between tabs]]
-** [x] PX4TuningComponentCopterPosition.qml [2/2]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/4589f543bfa4b6dd5142103d00c915104272b2df][mc pid tuning: add mc attitude and position controllers]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [x] PX4TuningComponentCopterVelocity.qml [4/4]
-  - [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/98507f78bee824fdb7c517767a6435a395249864][mc pid tuning: add tab for velocity controller]]
-  - [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/128f22dd2c40a5437f2d59bf320a751c287e2dfa][pid tuning: add MPC_POS_MODE, MC_AIRMODE and THR_MDL_FAC params]]
-  - [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/50a50a755208fe60489c81c4ef8dfdf7a9fdf1d2][pid tuning velocity: add param descriptions]]
-  - [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-** [-] PIDTuning.qml [12/14]
-	- [x] 2020-08-24 [[https://github.com/mavlink/qgroundcontrol/commit/f3404af44160c7e11886e34f3176f870d6979b04][Clean up references to MainRootWindow globals]]
-	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a51f13971f6e3bd7ff0450ec005354a44289f9bc][PX4 MC PID tuning page: minimal working version]]
-	- [x] 2021-01-02 [[https://github.com/mavlink/qgroundcontrol/commit/a000653e39c7e9c96615ae4bc5a39580863dab18][PX4 MC PID tuning page: remover hover+sliders & make advanced the default]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/30cff8084fadc12dbfab602bfc72e3c47f1a28b6][refactor PIDTuning: make it more generic, allowing to configure plot axes]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/98507f78bee824fdb7c517767a6435a395249864][mc pid tuning: add tab for velocity controller]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/4adc57a51851875f9f236d5ec19893ce61990c57][pid tuning: add mouse wheel zooming]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/339006bf641ecdd13da5fe6bca5942bcdb489057][pid tuning: show automatic flight mode change only for rate tuning and stop the pilot when enabling the option]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/2df2689a8517add1ad53ce68749639ef95275cf7][pid tuning: add page for FW TECS tuning]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/de502b1035cc443610bffb32d61d5e64eee0681e][pid tuning: set y axis limit to first point instead of 0]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6adf5d0a690e426a781eff49e7054e0f00532ac6][PIDTuning: start plotting on arming if not started already]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/6b5db72a5458ecfaf52bdbb971c42e78bd0f0f9f][pid tuning: fix layouting]]
-	- [x] 2021-02-24 [[https://github.com/mavlink/qgroundcontrol/commit/07f04eebb9ea0b6f5211532487dd69b046bab4af][pid tuning: limit plot history to 3min]]
-	- [ ] 2021-10-25 [[https://github.com/mavlink/qgroundcontrol/commit/17cb9f48dfe090499262c8b8d574d6b4ead24ead][PID tuning: add Autotune UI for rate & altitude controllers]]
-	- [ ] 2021-12-14 [[https://github.com/mavlink/qgroundcontrol/commit/187dfbfd20f0e9977421d0ddeec3e0d3d3751c2a][pid tuning: save & restore autotuning checkbox when switching between tabs]]
-
-** MAVLinkStreamConfig.cc
-** VehicleLocalPositionFactGroup.cc
-** VehicleLocalPositionSetpointFactGroup.cc
-** PX4FlightBehaviorCopter.qml
-** AutotuneUI.qml
-** Autotune.h
-** Autotune.cpp
+* Software
+  - [ ] TinkerCAD
+  - [ ] Octopi + Octoprint
+* 3D Printers
+  - [ ] Tevo tornado
+  - [ ] Ender
+  - [ ] Prussa

@@ -1,0 +1,119 @@
+* Character Cards
+** Normal
+*** Front
+	- 100 HP
+	- If 0 HP or 0 shields, flip and restore to full
+	- Setup: All 10 Shields in play
+*** Back
+	- 100 HP
+	- When flipped, destroy all shields. Shuffle the Villain trash into the villain deck
+	- When a shield is played, play the top card of the villain deck
+	- EOT: Play the top card of the deck
+** Aggressive
+*** Front
+	- 200 HP
+	- SOT: If > {H} Shields, flip
+	- EOT: Reveal cards from deck until shield. Put shield into play. Discard revealed cards. Shield deals X damage of its type to all hero targets, where X is the number of revealed cards.
+*** Back
+	- 200 HP
+	- SOT: If < {H} Shileds, flip
+	- EOT: Play the top card of the villain deck.
+* Decklist  [0/25]
+	- [ ] Melee shield
+		- 20 HP
+		- Shield
+		- Immune to melee damage
+		- ElementalMaster is immune to melee damage
+	- [ ] Projectile shield
+		- 20 HP
+		- Shield
+		- Immune to projectile damage
+		- ElementalMaster is immune to projectile damage
+	- [ ] Fire shield
+		- 20 HP
+		- Shield
+		- Immune to fire damage
+		- ElementalMaster is immune to fire damage
+	- [ ] Cold shield
+		- 20 HP
+		- Shield
+		- Immune to cold damage
+		- ElementalMaster is immune to cold damage
+	- [ ] Lightning shield
+		- 20 HP
+		- Shield
+		- Immune to lightning damage
+		- ElementalMaster is immune to lightning damage
+	- [ ] Toxic shield
+		- 20 HP
+		- Shield
+		- Immune to toxic damage
+		- ElementalMaster is immune to toxic damage
+	- [ ] Infernal shield
+		- 20 HP
+		- Shield
+		- Immune to infernal damage
+		- ElementalMaster is immune to infernal damage
+	- [ ] Radiant shield
+		- 20 HP
+		- Shield
+		- Immune to radiant damage
+		- ElementalMaster is immune to radiant damage
+	- [ ] Psychic shield
+		- 20 HP
+		- Shield
+		- Immune to psychic damage
+		- ElementalMaster is immune to psychic damage
+	- [ ] Sonic shield
+		- 20 HP
+		- Shield
+		- Immune to sonic damage
+		- ElementalMaster is immune to sonic damage
+	- [ ] Fire Spell
+		- One-shot
+		- Deal each non-villain target {H} fire damage.
+		- If Fire Shield is in play, deal each non-villain target {H} damage.
+	- [ ] Cold Spell
+		- One-shot
+		- Deal the {H-2} hero characters with the highest HP 3 cold damage.
+		- If Cold Shield is in play, characters damaged this way cannot use powers until the start of the Villain's next turn
+	- [ ] Lightning Spell
+		- One-shot
+		- Deal the {H-2} characters with the lowest HP 1 lightning damage
+		- If Lightning Shield is in play, those heroes cannot deal damage until the start of the Villain's next turn
+	- [ ] Toxic Spell
+		- One-shot
+		- Deal each hero target 1 damage.
+		- If Toxic Shield is in play, destroy all equipment cards
+	- [ ] Infernal Spell
+		- One-shot
+		- Deal the {H-2} hero targets with the lowest HP {H} damage.
+		- If Infernal Shield in in play, that player discards their hand.
+	- [ ] Radiant Spell
+		- One-shot
+		- Deal the highest HP hero {H} damage
+		- If Radiant Shield is in play, restore {H} HP to each shield
+	- [ ] Psychic Spell
+		- One-shot
+		- Each hero deals itself 1 psychic damage
+		- If Psychic Shield is in play, destroy all ongoing cards
+	- [ ] Sonic Spell
+		- One-shot
+		- Elemental Master deals each hero character 1 damage.
+		- If Sonic Shield is in play, heroes delt damage this way cannot play cards until the start of the Villain's next turn
+	- [ ] Shield Revival
+		- One-shot
+		- Return the topmost shield in the discard pile to play
+		- That card deals each hero target 1 damage of that shield's type
+		- Play the top card of the villain deck
+	- [ ] Shield Revival
+	- [ ] Prismatic blast
+		- Each shield deals each hero target 1 damage of its type
+	- [ ] Prismatic blast
+	- [ ] Time spell
+		- One-shot
+		- Play the top two cards of the villain deck
+	- [ ] Prismatic shields
+		- Ongoing
+		- All shields count as any shield
+	- [ ] Prismatic Shields

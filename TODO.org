@@ -4,6 +4,5 @@
 
 * Things to investigate
   + nlohmann json
-  + Onshape (3d cad tool)
   + Command line tee
   + unix pipes

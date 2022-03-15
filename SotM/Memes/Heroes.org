@@ -1,0 +1,18 @@
+Burninator Ra
+	- Deal everything 50 damage
+
+One punch Mr. Fixer
+	- Deal 1 thing 999 damage
+
+Quick draw expatriatte
+	- Put all ammo from your discard pile and hand into play. Use a power
+
+Lucky Setback
+	- Deal a random number of random targets a random amount of damage. The damage dealt will be between 1 and the total number of targets.
+
+America's Weakest Legacy
+	- 1 HP
+	- Power: Deal 0 damage to 1 target.
+
+Tree Hugger Akash
+	- Play X cards from the environment deck, where X is the number of cards in the environment deck.

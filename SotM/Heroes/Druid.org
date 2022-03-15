@@ -1,0 +1,14 @@
+* Character Cards
+* Deck [0/8]
+  - [ ] Summon Nature's Ally
+  	- Ongoing
+  	- When environment target would damage a hero, redirect to the villain with the highest HP
+  	- Power: Play the top card of the environment
+  - [ ] Summon Nature's Ally
+  - [ ] Summon Nature's Ally
+  - [ ] Barkskin
+  - [ ] Stoneskin
+  - [ ] Call lightning
+  - [ ] Strangling vines
+  - [ ] Goodberry
+  - [ ] Animal companion

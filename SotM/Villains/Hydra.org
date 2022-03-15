@@ -1,0 +1,40 @@
+* Character Card
+** Front
+** Back
+** Other
+*** Heads
+		- 5 HP
+* Deck  [0/10]
+  - [ ] Rampage
+  	- One-shot
+  	- Deal {H} damage to all other targets
+  - [ ] Rampage
+  - [ ] Rampage
+  - [ ] Multi-bite
+  	- One-shot
+  	- Each head deals 1 damage
+  - [ ] Multi-bite
+  - [ ] Multi-bite
+  - [ ] Slumbering form
+  	- Ongoing
+  	- Form
+  	- Destroy all other forms
+  	- Heads cannot deal damage
+  	- At end of turn, each head regains 1 HP.
+  	- At end of turn, Hydra regains X HP, where X is the number of heads in play
+  - [ ] Guarding form
+  	- Ongoing
+  	- Form
+  	- Destroy all other forms
+  	- When Hydra would be dealt damage, redirect that damage to the head with the lowest HP
+  - [ ] Blocking form
+  	- Ongoing
+  	- Form
+  	- Destroy all other forms
+  	- Decrease the damage deal to heads by 1.
+  	- Decrease the damage deal to Hydra by X, where X is the number of head in play
+  - [ ] Enraged form
+  	- Ongoing
+  	- Form
+  	- Destroy all other forms
+  	- Increase the damage dealt by Hydra by X, where X is the number of heads in play
