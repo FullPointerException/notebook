@@ -23,8 +23,11 @@
 	- [ ] Fertilizer
 		- Put all Grass cards from the discard pile into play
 	- [ ] Fertilizer
-	- [ ] Plant blight
+	- [ ] Wither & Die
 		- Destroy all grass targets
-* Positive energy field
+* Positive energy plane
   - 15 * Positive Energy Field
   	- Start of environment turn: Restore 1 HP to all targets
+* Negative energy plane
+  - 15 * Negative Energy Field
+  	- SOT: Deal 1 Necrotic Damage to all targets

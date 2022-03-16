@@ -1,0 +1,44 @@
+* Decklist  [0/15]
+  - [ ] Doug, sealed evil
+  	- 100 HP
+  	- Demon
+  	- Heroes cannot win
+  	- Enters play: set HP to 5
+  	- EOT: If 3 environment relics are in play, restore Doug to full HP. Move Doug to the villain play area and turn him into a villain target.
+  	- SOT: Doug deals the Hero with the highest HP {H} infernal damage.
+  - [ ] Doug's sword
+  	- 10 HP
+  	- EOT: If Doug is in play, he deals the non-relic, non-demon target with the highest HP {H-2} fire damage and non-relic, non-demon target with the lowest HP {H-2} infernal damage.
+  - [ ] Doug's shield
+  	- 10 HP
+  	- Decrease damage to Doug by 1
+  - [ ] Doug's helm
+  	- EOT: If Doulg is in play, he deals all non-relic, non-demon targets 1 Lightning damage
+  - [ ] Doug's amulet
+  	- EOT: Doug and all relics gain 2 HP
+  - [ ] Doug's armor
+  	- Decrease damage to Doug by 2
+  - [ ] Brimstone
+  	- EOT: Deal the target with 2nd highest HP 3 infernal damage
+  	- SOT: A hero may destroy 1 equipment. If they do, destroy this card.
+  - [ ] Brimstone
+  - [ ] Hellfire
+  	- EOT: Deal all targets 1 fire damage
+  	- SOT: A hero may take 3 Fire damage. If they do, destroy this card.
+  - [ ] Hellfire
+  - [ ] Infernal summons
+  	- Reveal cards from the top of the environment deck until a relic or demon is revealed. Put it into play.
+  - [ ] Infernal summons
+  - [ ] Scavenger Imp
+  	- 3 HP
+  	- Demon
+  	- SOT: If the top card of the discard pile is a target, put it into play
+  - [ ] Infuser Imp
+  	- 3 HP
+  	- Demon
+  	- EOT: Deal all non-relic, non-demon targets 1 Infernal damage.
+  	- SOT: All relic and demon targets gain 1 HP
+  - [ ] Demon hunter
+  	- 7 HP
+  	- EOT: Deal the demon with the highest HP 5 radiant damage
+  	- SOT: Each demon in play deals this card 1 infernal damage
