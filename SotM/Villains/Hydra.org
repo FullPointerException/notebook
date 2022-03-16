@@ -1,20 +1,14 @@
 * Character Card
 ** Front
+  - Setup: Put 2 heads into play
+  - SOT: Return all heads from the discard pile to play. For each head returned to play this way, put a head from the deck into play.
+  -
 ** Back
 ** Other
 *** Heads
 		- 5 HP
-* Deck  [0/10]
-  - [ ] Rampage
-  	- One-shot
-  	- Deal {H} damage to all other targets
-  - [ ] Rampage
-  - [ ] Rampage
-  - [ ] Multi-bite
-  	- One-shot
-  	- Each head deals 1 damage
-  - [ ] Multi-bite
-  - [ ] Multi-bite
+    - EOT: Deal the hero target with the highest HP 1 damage
+* Deck  [0/25]
   - [ ] Slumbering form
   	- Ongoing
   	- Form
@@ -37,4 +31,46 @@
   	- Ongoing
   	- Form
   	- Destroy all other forms
-  	- Increase the damage dealt by Hydra by X, where X is the number of heads in play
+  	- Increase melee damage dealt by Hydra by X, where X is the number of heads in play
+  - [ ] Rampage
+  	- One-shot
+  	- Deal {H} damage to all other targets
+  - [ ] Rampage
+  - [ ] Rampage
+  - [ ] Multi-bite
+  	- One-shot
+  	- Each head deals 1 damage
+  - [ ] Multi-bite
+  - [ ] Multi-bite
+  - [ ] Surprise bite
+    - One-shot
+    - Put a head into play
+    - That head deals the hero target with the highest HP {H-2} damage
+  - [ ] Surprise bite
+  - [ ] Surprise bite
+  - [ ] Entangling necks
+    - Ongoing
+    - Place next to a hero
+    - At the start of that hero's turn, the head with the highest HP deals them 2 melee damage.
+    - When this hero destorys a head, destroy this card.
+  - [ ] Entangling necks
+  - [ ] Focused crunch
+    - One-shot
+    - Deal the hero target with the highest HP X damage, where X is the number of heads in play + 1
+  - [ ] Focused crunch
+  - [ ] Self snackrifice
+    - One-shot
+    - Destroy all heads. Hydra gains 5 HP for each head destroyed this way
+  - [ ] Self snackrifice
+  - [ ] Sudden sprouting
+    - One-shot
+    - Put {H} heads into play
+  - [ ] Sudden sprouting
+  - [ ] Acid-blood
+    - Ongoing
+    - When a head is destroyed, Hydra deals each hero 1 toxic damage.
+  - [ ] Jaw crush
+    - Each hero destroys an equipment card. Hydra deals any hero who does not {H} melee damage
+  - [ ] Thundering roar
+    - Hydra deals all non-villain targets X sonic damage, where X is the number of heads in play
+  - [ ] Thundering roar
