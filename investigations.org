@@ -4,7 +4,12 @@
 * Software
   - [ ] TinkerCAD
   - [ ] Octopi + Octoprint
+
 * 3D Printers
+** Printers
   - [ ] Tevo tornado
   - [ ] Ender
   - [ ] Prussa
+** Filament
+** Profiles
+** Software

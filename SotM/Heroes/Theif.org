@@ -2,9 +2,10 @@
 ** Theif
 	- Power: Reveal the top 2 cards of your deck. Play one and discard the other.
 	- Incaps:
-		- One player draws a card
 		- One player uses a power
-		- One player plays a card
+		- One player discards the top 2 cards of their deck
+		- One player plays puts an equipment from their trash into play
+** HEADING
 * Decklist  [0/40]
   - [ ] Debilitating Strike
   	- Ongoing
@@ -33,11 +34,11 @@
   - [ ] Opportunist
   	- Ongoing
   	- When a hero character deals damage to a villain, you may destry this card. If you do, Theif deals that villain 1 Melee damage.
+  - [ ] Opportunist
   - [ ] Improvised trap
   	- Equipment
   	- Trap
   	- When a target enters play, you may destroy this card. If you do, Theif deals 3 damage to that target
-  - [ ] Improvised trap
   - [ ] Improvised trap
   - [ ] Tripwire
   	- Equipment
@@ -58,7 +59,6 @@
   - [ ] Trapmaster
   	- Ongoing
   	- At the end of your turn, play a Trap from your hand or discard pile
-  	- Increase damage dealt by traps by 1.
   - [ ] Counterstrike
   	- Ongoing
   	- The first time Thief takes damage each turn, deal the source 1 damage.

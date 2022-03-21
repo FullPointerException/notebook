@@ -11,4 +11,7 @@
   - [ ] Call lightning
   - [ ] Strangling vines
   - [ ] Goodberry
+    - One-shot
+    - All non-villain targets gain 1 HP
+    - Put into environment trash
   - [ ] Animal companion

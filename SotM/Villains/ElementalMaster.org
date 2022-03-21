@@ -16,7 +16,7 @@
 	- EOT: Reveal cards from deck until shield. Put shield into play. Discard revealed cards. Shield deals X damage of its type to all hero targets, where X is the number of revealed cards.
 *** Back
 	- 200 HP
-	- SOT: If < {H} Shileds, flip
+	- SOT: If < {H} Shields, flip
 	- EOT: Play the top card of the villain deck.
 * Decklist  [0/25]
 	- [ ] Melee shield

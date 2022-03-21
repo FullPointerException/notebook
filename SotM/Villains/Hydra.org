@@ -2,7 +2,7 @@
 ** Front
   - Setup: Put 2 heads into play
   - SOT: Return all heads from the discard pile to play. For each head returned to play this way, put a head from the deck into play.
-  -
+  - When destroyed, flip.
 ** Back
 ** Other
 *** Heads

@@ -1,0 +1,47 @@
+* Character Card
+** Chadarnook / The Lady
+*** Front: Chadarnook
+		- At EOT: flip
+		- Weak to fire damage
+		- EOT: Deal infernal damage
+*** Back: The Lady
+    - At EOT: flip
+    - Prevent damage, heal that much, deal all heroes that much radiant damage
+    - Play extra card
+* Decklist  [0/25]
+ - [ ] Fresh canvas
+ 	- Ongoing
+ 	- At the start of the villain turn, play the top card of the villain deck
+ - [ ] Silent auction
+ 	- Ongoing
+ 	- Whenever a villain target is destroyed, put in on the bottom of the villain deck. Reveal cards from the villain trash until you reveal a target. If you do, put it into play.
+ - [ ] Razor Pages
+ 	- One-shot
+ 	- Deal all targets X projectile damage, where X is the number of villain targets in play
+ - [ ] Razor Pages
+ - [ ] Razor Pages
+ - [ ] Cursed Brand
+ 	- One-shot
+ 	- Deal self and the hero target with the highest HP {H} infernal damage
+ 	- Hero targets damaged this way connot regain HP until the start of the villain turn
+ - [ ] Cursed Brand
+ - [ ] Cursed Brand
+ - [ ] Still Life
+ - [ ] Still Life
+ - [ ] Bowl of Fruit
+ - [ ] Bowl of Fruit
+ - [ ] Landscape
+ - [ ] Landscape
+ - [ ] Portrait
+ - [ ] Fresh paint
+ - [ ] Fresh paint
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
