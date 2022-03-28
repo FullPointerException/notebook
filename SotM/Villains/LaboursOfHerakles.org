@@ -1,0 +1,76 @@
+* Characters
+	- Trials card
+    - When this card has 2*{H} trials underneath it, the heroes with the game.
+	- Herakles
+		- ?? HP
+		- Hero Target
+		- At start of environment turn, deals 3 melee damage to the villain target with the least HP
+* Deck [0/25]
+  - [ ] Nemean Lion
+  	- Trial
+  	- ?? HP
+    - Immune to projectile damage
+    - EOT: Deal H-1 melee damage to hero with highest HP
+    - When destroyed, place under the trials card.
+  	- (slain)
+    - Reward Text: Reduce damage dealt to Herakles by 1.
+  - [ ] Lernaean Hydra
+  	- Trial
+  	- 9 HP
+    - At start of Villain turn deal X damage to the X hero targets with the highest HP, where X is this card's HP.
+    - When destroyed, place under the trials card.
+  	- (slain)
+    - Reward Text: ??
+  - [ ] Ceryneian Hind
+  	- Trial
+  	- ?? HP
+  	- (captured)
+  - [ ] Erymanthian Boar
+  	- Trial
+  	- ?? HP
+  	- (captured)
+  - [ ] Augean Stables
+  	- Trial
+  	- (cleaned)
+  - [ ] Stymphalian Birds
+  	- Trial
+  	- ?? HP
+  	- (slain)
+  - [ ] Cretan Bull
+  	- Trial
+  	- ?? HP
+  	- (captured)
+  - [ ] Mares of Diomedes
+  	- Trial
+  	- (stolen)
+  - [ ] Belt of Hippolyta
+  	- Trial
+  	- (obtained)
+  - [ ] Cattle of Geyron
+  	- Trial
+  	- (obtained)
+  - [ ] Golden Apples of the Hesperides
+  	- Trial
+  	- (steal 3)
+  - [ ] Cerberus
+  	- Trial
+  	- (capture)
+  - [ ] Madness from Hera
+  	- One-shot
+  	- Herakles deals each other hero target {H} melee damage.
+  	- If any targets are destroyed this way, Herakles himself {H} psychic damage.
+  - [ ] Madness from Hera
+  - [ ] Madness from Hera
+  - [ ] ???'s Aid
+  	- One-shot
+  	- Shuffle one from {Trials} into the villain deck
+  	- Each hero draws 2 cards
+  - [ ] ???'s Aid
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
