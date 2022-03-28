@@ -1,5 +1,9 @@
 * Multi-tron
   - Both omnitrons at once
+  - 2 omnitron I, one on each side
+  - 2 omnitron II, one on each side
+  - All four omnitrons possible
+  - Omnitron that transforms into other omnitron on death?
 
 * True Champ Kargra
   - Setup: Give all titles

@@ -1,0 +1,10 @@
+* Solving Squirdle
+** What is squirdle?
+** Generation
+** Types
+** Generation / Type correlation
+** Height / Weight
+** Type - Height/Weight correlation
+** Generation - Height/Weight correlation
+** Simple best first guess
+** Two-set best guess

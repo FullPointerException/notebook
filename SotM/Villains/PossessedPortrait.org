@@ -1,10 +1,10 @@
 * Character Card
-** Chadarnook / The Lady
-*** Front: Chadarnook
+** Possessed Portrait
+*** Front: Evil Spirit
 		- At EOT: flip
 		- Weak to fire damage
 		- EOT: Deal infernal damage
-*** Back: The Lady
+*** Back: Beautiful Lady
     - At EOT: flip
     - Prevent damage, heal that much, deal all heroes that much radiant damage
     - Play extra card
@@ -12,14 +12,13 @@
  - [ ] Fresh canvas
  	- Ongoing
  	- At the start of the villain turn, play the top card of the villain deck
- - [ ] Silent auction
+ - [ ] Auction of the Damned
  	- Ongoing
  	- Whenever a villain target is destroyed, put in on the bottom of the villain deck. Reveal cards from the villain trash until you reveal a target. If you do, put it into play.
- - [ ] Razor Pages
- 	- One-shot
- 	- Deal all targets X projectile damage, where X is the number of villain targets in play
- - [ ] Razor Pages
- - [ ] Razor Pages
+ - [ ] Possessed Painter
+    - 10 HP
+    - EOT: Each painting restores 2 HP
+    - SOT: Reveal the top card of the villain deck. If it is a painting, play it.
  - [ ] Cursed Brand
  	- One-shot
  	- Deal self and the hero target with the highest HP {H} infernal damage
@@ -28,12 +27,20 @@
  - [ ] Cursed Brand
  - [ ] Still Life
  - [ ] Still Life
- - [ ] Bowl of Fruit
- - [ ] Bowl of Fruit
+ - [ ] Still Life
  - [ ] Landscape
+    - 10 HP
+    - Painting
+    - EoT: Deals X projectile damage, where X is the number of environment cards in play
  - [ ] Landscape
  - [ ] Portrait
+    - X HP
+    - Painting
+    - When enters play, set its HP to the HP of the hero with the highest HP
+    - EOT: Deal the hero with the lowest HP {H} damage
+ - [ ] Abstract
  - [ ] Fresh paint
+    - One-shot
  - [ ] Fresh paint
  - [ ]
  - [ ]

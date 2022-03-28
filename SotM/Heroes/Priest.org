@@ -1,3 +1,42 @@
 * Character Cards
-* Decklist
-  -
+* Decklist [0/40]
+  - [ ] Holy Symbol
+  - [ ] Holy Symbol
+  - [ ] Holy Water
+  - [ ] Holy Water
+  - [ ] Mace of the Sun
+  - [ ] Mace of the Sun
+  - [ ] Channel Positive Energy
+  - [ ] Channel Positive Energy
+  - [ ] Channel Positive Energy
+  - [ ] Revive
+  - [ ] Revive
+  - [ ] Revive
+  - [ ] Holy Shield
+  - [ ] Holy Shield
+  - [ ] Holy Shield
+  - [ ] Bless Weapon
+  - [ ] Bless Weapon
+  - [ ] Bless Weapon
+  - [ ] Sun Beam
+  - [ ] Sun Beam
+  - [ ] Sun Beam
+  - [ ] Light Burst
+  - [ ] Light Burst
+  - [ ] Light Burst
+  - [ ] Dispel
+  - [ ] Dispel
+  - [ ] Dispel
+  - [ ] Divine Intervention
+  - [ ] Divine Intervention
+  - [ ] Miracle
+  - [ ] Fetters of Light
+  - [ ] Fetters of Light
+  - [ ] Fetters of Light
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
