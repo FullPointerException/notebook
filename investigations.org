@@ -28,3 +28,4 @@
    - screw, bolt,  nut jig
    - card deck holder
    - catan
+   - SotM card attached spindown counters

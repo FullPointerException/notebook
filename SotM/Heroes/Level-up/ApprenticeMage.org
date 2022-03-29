@@ -1,0 +1,70 @@
+* Apprentice Mage [0/33]
+	- [ ] Staff
+		- Limited
+		- Equipment
+		- Increase damage by 1
+		- Power: Use a spell
+	- [ ] Orb
+		- Limited
+		- Equipment
+		- Use an extra power each turn
+	- [ ] Spellbook
+		- Limited
+		- Equipment
+		- End of turn: level up a spell in your hand
+		- Power: Draw a card
+	- [ ] Cloak of resistance
+		- Limited
+		- Equipment
+		- Reduce damage taken by 1
+	- [ ] Ring of spell storing
+		- Equipment
+		- The first time a spell would enter your discard pile each turn, put it back in your hand
+	- [ ] Healing Potion
+		- Equipment
+		- Power: Destroy this. Heal HP.
+	- [ ] Healing Potion
+	- [ ] Healing Potion
+	- [ ] Scroll
+		- Equipment
+		- Power: Destroy this. Reveal from deck until spell and play it.
+	- [ ] Scroll
+	- [ ] Scroll
+	- [ ] Rest
+		- Ongoing
+		- At the start of your turn, draw a card and return a spell to your hand
+		- If you take damage, destroy this
+	- [ ] Loot the dungeon
+		- One shot
+		- Reveal from the deck until you get an equipment, put it into play
+		- You may play a spell
+	- [ ] Loot the dungeon
+	- [ ] Loot the dungeon
+	- [ ] Fire lv X
+		- One-shot
+		- Spell
+	- [ ] Ice lv X
+	- [ ] Lightning lv X
+	- [ ] Acid lv X
+	- [ ] Sonic lv X
+	- [ ] Psychic lv X
+	- [ ] Radiant lv X
+	- [ ] Infernal lv X
+	- [ ] Energy lv X
+	- [ ] Projectile lv X
+	- [ ] Shield lv X
+	- [ ] Summon Monster lv X
+	- [ ] Chain Spell
+		- Once-shot
+		- Spell
+		- Play two spells
+	- [ ] Chain Spell
+	- [ ] Chain Spell
+	- [ ] Kick in the door
+		- Once-shot
+		- Play the top card of the villain deck
+		- Draw a card
+		- Level up a card in hand
+		- You may play 'Loot the Dungeon'
+	- [ ] Kick in the door
+	- [ ] Kick in the door
