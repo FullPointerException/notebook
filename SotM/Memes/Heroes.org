@@ -5,7 +5,7 @@
 * Quick draw expatriatte
 	- Power: Put all ammo from your discard pile and hand into play. Use a power.
 * Lucky Setback
-	- Power: Deal a random number of random targets a random amount of damage. The damage dealt will be between 1 and the total number of targets.
+	- Power: Deal a random number of random targets a random amount of damage. The damage dealt will be between 1 and the total number of targets. Randomly add or remove that many tokens from the luck pool.
 * America's Weakest Legacy
 	- 1 HP
 	- Power: Deal 0 damage to 1 target.

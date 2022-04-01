@@ -1,4 +1,5 @@
 * Character Card
+** Nemesis: Alchemist
 * Deck  [0/15]
   - [ ] Hold Person
   	- Ongoing

@@ -1,0 +1,70 @@
+* Character Card
+* Decklist [0/40]
+  - [ ] Lingering Performance
+    - Ongoing
+    - If the top card of your trash is a song, treat it as if it were in play
+  - [ ] Lingering Performance
+  - [ ] Inspire Courage
+    - Ongoing
+    - Limited
+    - Song
+    - EOT: Discard or destroy
+    - All allies damage +1
+  - [ ] Inspire Courage
+  - [ ] Soothing aria
+    - Ongoing
+    - Limited
+    - Song
+    - EOT: Discard or destroy
+    - SOT: All allies heal 1 HP
+  - [ ] Soothing aria
+  - [ ] Battle Hymn
+    - Ongoing
+    - Limited
+    - Song
+    - EOT: Discard or destroy
+    - SOT: 1 sonic damage to all villains
+  - [ ] Battle Hymn
+  - [ ] Inspire vigor
+    - Ongoing
+    - Limited
+    - Song
+    - EOT: Discard or destroy
+    - Allies get 1 extra play
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ] Dischordant shards
+    - Ongoing
+    - When a song goes to the trash, deal 1 target 3 sonic damage
+  - [ ] Dischordant shards
+  - [ ] Reprise
+    - Oneshot
+    - Draw a card
+    - Put a song from your trash into play
+    - Play a card
+  - [ ] Reprise
+  - [ ] Reprise
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]
+  - [ ]

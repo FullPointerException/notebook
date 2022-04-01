@@ -1,27 +1,44 @@
 * Character Cards
 * Decklist [0/40]
   - [ ] Holy Symbol
+    - Equipment
+    - Limited
+    - +1 to healing
+    - +1 to damage
   - [ ] Holy Symbol
-  - [ ] Holy Water
-  - [ ] Holy Water
   - [ ] Mace of the Sun
+    - Equipment
+    - Limited
+    - Power: Deal 1 Melee, 1 Fire, 1 Radiant
   - [ ] Mace of the Sun
   - [ ] Channel Positive Energy
+    - One shot
+    - Deal all villains 1 radiant
+    - Heal all heroes 1
   - [ ] Channel Positive Energy
   - [ ] Channel Positive Energy
   - [ ] Revive
   - [ ] Revive
   - [ ] Revive
   - [ ] Holy Shield
+    - Ongoing
+    - Place beside hero that does not already have a holy shield beside them.
+    - Reduce damage to that hero by 1.
   - [ ] Holy Shield
   - [ ] Holy Shield
   - [ ] Bless Weapon
+    - Ongoing
+    - Place beside hero that does not already have a holy shield beside them.
+    - Increase damage dealt by that hero by 1.
   - [ ] Bless Weapon
   - [ ] Bless Weapon
   - [ ] Sun Beam
+    - One shot
+    - Deal 4
   - [ ] Sun Beam
   - [ ] Sun Beam
   - [ ] Light Burst
+    - One shot
   - [ ] Light Burst
   - [ ] Light Burst
   - [ ] Dispel
@@ -33,6 +50,10 @@
   - [ ] Fetters of Light
   - [ ] Fetters of Light
   - [ ] Fetters of Light
+  - [ ] Consecrate Area
+    - One-shot
+    - Destroy all environment targets
+  - [ ] Consecrate Area
   - [ ]
   - [ ]
   - [ ]
