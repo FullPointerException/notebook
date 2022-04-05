@@ -2,11 +2,11 @@
 ** Front
   - Setup: Put 2 heads into play
   - SOT: Return all heads from the discard pile to play. For each head returned to play this way, put a head from the head pile into play.
-  - When destroyed, flip.
+  - When 2*H heads in play, flip.
 ** Back
 ** Other
 *** Heads
-		- 5 HP
+		- 3 HP
     - EOT: Deal the hero target with the highest HP 1 damage
 * Deck  [0/25]
   - [ ] Slumbering form
