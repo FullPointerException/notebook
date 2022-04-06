@@ -1,11 +1,7 @@
 * Burninator Ra
 	- Power: Deal all targets 50 fire damage
-* One punch Mr. Fixer
-	- Power: Deal 1 target 999 damage
-* Quick draw expatriatte
-	- Power: Put all ammo from your discard pile and hand into play. Use a power.
 * Lucky Setback
-	- Power: Deal a random number of random targets a random amount of damage. The damage dealt will be between 1 and the total number of targets. Randomly add or remove that many tokens from the luck pool.
+	- Power: Deal a random number of random targets a random amount of a random type of damage. The damage dealt will be between 1 and the total number of targets. Randomly add or remove that many tokens from the luck pool.
 * America's Weakest Legacy
 	- 1 HP
 	- Power: Deal 0 damage to 1 target.
@@ -18,5 +14,3 @@
 	- Power: Play a card. Use a power. Draw a card.
 * The unnaturalist
   - Power: Search your hand, deck, and discard pile for all forms and play them. Use a power. Use a power. Use a power.
-* Scholar of the Elements
-  - Power: Deal 1 target one damage of each damage type.
