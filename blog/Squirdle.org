@@ -1,5 +1,7 @@
 * Solving Squirdle
 ** What is squirdle?
+	- Import pokedex json
+	- Process pokedex json
 ** Generation
 ** Types
 ** Generation / Type correlation

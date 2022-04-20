@@ -14,3 +14,85 @@
 	- Power: Play a card. Use a power. Draw a card.
 * The unnaturalist
   - Power: Search your hand, deck, and discard pile for all forms and play them. Use a power. Use a power. Use a power.
+* Cheaty
+	- Extra play [E]
+	- Extra play [O]
+	- Extra play [T]
+	- Extra power [E]
+	- Extra power [O]
+	- Extra power [T]
+	- Extra draw [E]
+	- Extra draw [O]
+	- Extra draw [T]
+	- Life beacon [E]
+	- Life beacon [O]
+	- Life beacon [T]
+	- Reduce damage [E]
+	- Reduce damage [O]
+	- Reduce damage [T]
+	- Increase damage [E]
+	- Increase damage [O]
+	- Increase damage [T]
+	- Equipment guard [T]
+	- Ongoing guard [T]
+	- No max HP [T]
+	- Damage beacon [E]
+	- Damage beacon [O]
+	- Damage beacon [T]
+	- Melee minion [T]
+	- Projectile minion [T]
+	- Energry minion [T]
+	- Fire minion [T]
+	- Cold minion [T]
+	- Lightning minion [T]
+	- Toxic minion [T]
+	- Psychic minion [T]
+	- Sonic minion [T]
+	- Radiant minion [T]
+	- Infernal minion [T]
+	- Extra turn oneshot
+	- Extra turn oneshot
+	- Minion cannon [T]
+	- Equip cannon [E]
+	- Ongoing cannon [O]
+* Chando
+	- Wendy
+	- Flower tummy wendy
+	- Rainbow tummy wendy
+	- Benny
+	- Zozo
+	- Brina
+	- Caparine
+	- Dante
+	- Big squish
+	- Big foot club
+	- Mushroom A
+	- Mushroom B
+	- Mushroom C
+	- Frog squad
+	- Mushroom squd
+	- Georgie
+	- Maisy
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-
+	-

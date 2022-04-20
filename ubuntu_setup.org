@@ -125,7 +125,7 @@ sudo apt-get remove modemmanager
 
 *** Qt
 
-Download the [[http://www.qt.io/download-open-source][Qt Online Installer]]. Make executable and run. When selecting verions, ensure you have the following (Use the Archive checkbox to make 5.12.6 appear):
+Download the [[http://www.qt.io/download-open-source][Qt Online Installer]]. Make executable and run. When selecting versions, ensure you have the following (Use the Archive checkbox to make 5.12.6 appear):
 - Qt 5.12.6
   - Desktop gcc 64-bit
   - Qt Charts

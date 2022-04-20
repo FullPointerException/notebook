@@ -24,8 +24,12 @@
 	C-x 0 kills the current windo
 	C-x 3 opens a second window vertically
 ** Keyboard shortcuts
-
-
+** File Editing
+*** Deleting
+	|               Behavior               |              Keys              |
+	|--------------------------------------+--------------------------------|
+	| Delete to end of line                | C-k                            |
+	| Delete all whitespace at end of line | M-x delete-trailing-whitespace |
 ** Org mode
 *** Keyboard shortcuts
 	S-Left / S-Right: Cycle TODOs
