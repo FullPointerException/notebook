@@ -1,8 +1,150 @@
 * Tasks
- - add graphvix to install intstructions
- - add dash-to-panel to install instructions
+- add graphvix to install intstructions
+- add dash-to-panel to install instructions
 
 * Things to investigate
-  + nlohmann json
-  + Command line tee
-  + unix pipes
+- nlohmann json
+- Command line tee
+- unix pipes
+
+* Bday
+** Shopping
+- [ ] Drinks
+- [ ] Punch
+- [ ] Snacks
+** Yard
+- [ ] Mow
+- [ ] Weed Eat
+- [ ] Pressure wash walk up
+- [ ] Trim bushes
+- [ ] Clean up limbs
+- [ ] Garden plot 1
+- [ ] Garden plot 2
+- [ ] Garden plot 3
+- [ ] Garden plot 4
+- [ ] Garden plot 5
+- [ ] Weed
+- [ ] Back slab clean
+- [ ] Back porch clean
+- [ ] Hanging plants
+** House
+*** Master bath
+- [ ] Clean toilet
+- [ ] Clean shower
+- [ ] Organize linen closet
+- [ ] Mop
+- [ ] Clean sink
+- [ ] Clean light bulbs
+- [ ] Clean mirror
+- [ ] Clean counter
+- [ ] Organize
+- [ ] Clean cabinets and drawers
+- [ ] Baseboards
+*** Master bed
+- [ ] Baseboards
+- [ ] Organize
+- [ ] Vacuum
+- [ ] Squish display
+- [ ] Fix lamp
+- [ ] Dust shelves / cubbies
+*** Master closet
+- [ ] Cut middle shelf
+- [ ] Tape closet
+- [ ] Tape down plastic
+- [ ] Attach middle shelf
+- [ ] Pick shelf color
+- [ ] Paint shelves
+- [ ] Install shelves
+- [ ] Buy rods
+- [ ] Paint rods
+- [ ] Install rods
+- [ ] Buy top shelf
+- [ ] Paint top shelf
+- [ ] Paint top shelf runners
+- [ ] Install top shelf runners
+- [ ] Install top shelf
+- [ ] Put things in closet
+- [ ] Buy trim?
+- [ ] Paint trim?
+- [ ] Install trim?
+- [ ] Hat pegs
+*** Stairs bath
+- [ ] Baseboards
+- [ ] Clean lights
+- [ ] Clean sink
+- [ ] Clean counter
+- [ ] Organize
+- [ ] Mop
+- [ ] Toilet
+*** Mudroom
+- [ ] Mop
+- [ ] Laundry doors
+- [ ] Laundry organize
+- [ ] Fresh litter
+- [ ] Baseboards
+*** Downstairs hall
+- [ ] Baseboards
+- [ ] Vacuum
+*** Kitchen
+- [ ] Mop
+- [ ] Clean counters
+- [ ] Clean stovetop
+- [ ] Clean oven outside
+- [ ] Clean oven inside
+- [ ] Clean microwave
+- [ ] Clean dishwaher outside
+- [ ] Clean sink
+- [ ] Clean walls
+- [ ] Clean trash can
+- [ ] Install wine rack
+- [ ] Clean counter doors
+- [ ] Wash windows
+*** Dining room
+- [ ] Clean table
+- [ ] Vacuum
+- [ ] Baseboards
+- [ ] Wash windows
+- [ ] Organize
+*** Living room
+- [ ] Squish display
+- [ ] Wash windows
+- [ ] Vacuum
+- [ ] Organize
+- [ ] Dust shelves
+- [ ] Clean mantle
+- [ ] Baseboards
+*** Stairs
+- [ ] Baseboards
+- [ ] Clean lights
+- [ ] Clean rail
+- [ ] Vacuum
+*** Loft
+- [ ] Vacuum
+- [ ] Baseboards
+- [ ] Clean rail
+- [ ] Hang posters
+- [ ] Remove clips over TV
+- [ ] Organize
+*** Upstairs bath
+- [ ] Baseboards
+- [ ] Mop
+- [ ] Clean tub
+- [ ] Clean mirror
+- [ ] Clean sink
+- [ ] Clean counter
+- [ ] Clean cabinets
+*** Upstairs hall
+- [ ] Baseboards
+- [ ] Clean air filter
+- [ ] Vacuum
+*** Office
+- [ ] Baseboards
+- [ ] Vacuum
+- [ ] Dust
+- [ ] Organize
+- [ ] Clean closet
+- [ ] Hang posters
+*** Guest bed
+- [ ] Baseboards
+- [ ] Vacuum
+- [ ] Organize

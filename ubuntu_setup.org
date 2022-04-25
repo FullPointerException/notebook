@@ -1,12 +1,12 @@
 * Common Setup
 ** OS Appearance
-  - Settings -> Appearance
-    + Window colors: Dark
-    + Dock: Icon size: 24
-    + Dock: Show on: All displays
-    + Dock: Position on screen: Bottom
-  - Settings -> Power
-    + Blank Screen: Never
+- Settings -> Appearance
+ -  Window colors: Dark
+ - Dock: Icon size: 24
+ - Dock: Show on: All displays
+ - Dock: Position on screen: Bottom
+- Settings -> Power
+ - Blank Screen: Never
 
 ** Packages
 #+NAME: Apt coding tools
@@ -71,36 +71,35 @@ sudo apt-get install sublime-text
 #+END_SRC
 
 Install package control
+
 In sublime, Ctrl+P then Install Package Control
 
-Packages
-Sidebar Enchancements
-Bracket Highlighter
-Sublime Linter
-Git gutter
-QML
-orgextended
+Packages:
+- Sidebar Enchancements
+- Bracket Highlighter
+- Sublime Linter
+- Git gutter
+- QML
 
 Settings
-"trim_trailing_white_space_on_save": "all",
+- "trim_trailing_white_space_on_save": "all",
 
 TODO: Specific linters
 
 ** TODO Firefox setup
 
-
 ** TODO Zsh
 ** Setup ssh keys
-
-- Generate keys
+Generate keys
 #+NAME: Generating ssh keys
 #+BEGIN_SRC sh
 ssh-keygen -t ed25519 -C "fullpointerxception@gmail.com"
 ssh-keygen -t rsa -b 4096 -C "email@email.com"
 #+END_SRC
 
-- Add key to bitbucket
-- Add key to github
+Add key to bitbucket
+
+Add key to github
 
 * Automated Setup
 #+NAME: Ubuntu scripted setup
@@ -113,7 +112,6 @@ sudo ./install.sh
 
 * QGC Development Setup
 [[https://dev.qgroundcontrol.com/master/en/getting_started/][QGC dev website]]
-
 *** Serial device requirements
 These require a logout after setting, which is annoying so might as well do them first.
 
@@ -124,17 +122,16 @@ sudo apt-get remove modemmanager
 #+END_SRC
 
 *** Qt
-
 Download the [[http://www.qt.io/download-open-source][Qt Online Installer]]. Make executable and run. When selecting versions, ensure you have the following (Use the Archive checkbox to make 5.12.6 appear):
 - Qt 5.12.6
-  - Desktop gcc 64-bit
-  - Qt Charts
-  - Qt Virtual Keyboard
-  - Android ARMv7
+ - Desktop gcc 64-bit
+ - Qt Charts
+ - Qt Virtual Keyboard
+ - Android ARMv7
 - Developer and Designer Tools
-  - CMake
-  - Ninja
-  - OpenSSL
+ - CMake
+ - Ninja
+ - OpenSSL
 
 *** Build Qt OpenSSL
 #+NAME: QGC OpenSSL
@@ -173,13 +170,21 @@ sudo apt install openjdk-8-jdk
 #+END_SRC
 
 Inside Qt Creator
+
 Tools > Options > Devices > Android
+
 Select the open jdk /usr/lib/jvm/java-8-openjdk-amd64
+
 Click Set Up SDK
+
 Install necessary packages
+
 Accept Licenses
+
 Once this is complete, check the version. It likely grabbed the wrong one, we need 19.2
+
 Download the gstreamer from here: [[https://gstreamer.freedesktop.org/data/pkg/android/1.14.4/gstreamer-1.0-android-universal-1.14.4.tar.bz2][gstreamer-1.0-android-universal-1.14.4.tar.xz]]
+
 Create a directory named "gstreamer-1.0-android-universal-1.14.4" under the root qgroundcontrol directory (the same directory qgroundcontrol.pro is located). Extract the downloaded archive under this directory.
 
 *** Clone repository
@@ -193,5 +198,7 @@ git clone --recursive git@<repo_source>.git qgc
 #+END_SRC
 *** Open in Qt creator
 Open the project at ~/work/<repo_name>/qgc/qgroundcontrol.pro
+
 Configure the kits
+
 Click build
