@@ -1,12 +1,12 @@
 * Decklist [0/15]
-  - [ ] Soul of the Forgotten God
-  	- 20 HP
-  	- Forgotten God
-  	- EOT: If 5 Forgotten God targets are in play, heroes lose
-  - [ ] Head of the Forgotten God
-  	- 5 HP
+- [ ] Soul of the Forgotten God
+ - 20 HP
+ - Forgotten God
+ - EOT: If 5 Forgotten God targets are in play, heroes lose
+- [ ] Head of the Forgotten God
+  - 5 HP
   - [ ] Chest of the Forgotten God
-  	- 5 HP
+ 	- 5 HP
   - [ ] Arms of the Forgotten God
   	- 5 HP
   - [ ] Legs of the Forgotten God

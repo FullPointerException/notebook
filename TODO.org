@@ -1,17 +1,16 @@
 * Tasks
 - add graphvix to install intstructions
 - add dash-to-panel to install instructions
-
 * Things to investigate
 - nlohmann json
 - Command line tee
 - unix pipes
-
 * Bday
 ** Shopping
 - [ ] Drinks
 - [ ] Punch
 - [ ] Snacks
+- [ ] Frames
 ** Yard
 - [ ] Mow
 - [ ] Weed Eat
@@ -19,9 +18,9 @@
 - [ ] Trim bushes
 - [ ] Clean up limbs
 - [ ] Garden plot 1
-- [ ] Garden plot 2
-- [ ] Garden plot 3
-- [ ] Garden plot 4
+- [X] Garden plot 2
+- [X] Garden plot 3
+- [X] Garden plot 4
 - [ ] Garden plot 5
 - [ ] Weed
 - [ ] Back slab clean
@@ -49,8 +48,8 @@
 - [ ] Dust shelves / cubbies
 *** Master closet
 - [ ] Cut middle shelf
-- [ ] Tape closet
-- [ ] Tape down plastic
+- [X] Tape closet
+- [X] Tape down plastic
 - [ ] Attach middle shelf
 - [ ] Pick shelf color
 - [ ] Paint shelves

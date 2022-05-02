@@ -7,8 +7,8 @@
  - Dock: Position on screen: Bottom
 - Settings -> Power
  - Blank Screen: Never
-
 ** Packages
+Install basic coding tools from apt
 #+NAME: Apt coding tools
 #+BEGIN_SRC sh
 sudo apt update
@@ -18,7 +18,7 @@ sudo apt install docker.io
 sudo apt install fonts-firacode
 sudo apt install fonts-cantarell
 #+END_SRC
-
+Install wireshark
 #+NAME: Wireshark
 #+BEGIN_SRC sh
 sudo apt-get install wireshark
@@ -26,13 +26,15 @@ sudo usermod -aG wireshark $(whoami)
 #+END_SRC
 After running this, reboot before wireshark can be run
 
+Install Dash To Panel
 #+NAME: Dash to panel
 #+BEGIN_SRC sh
 sudo apt install gnome-tweaks
 sudo apt install gnome-shell-extension-dash-to-panel
 #+END_SRC
-Restart your computer, and enablee in the Gnome Tweaks tab
+Restart your computer, and enable in the Gnome Tweaks tab
 
+Setup Git
 #+NAME: Git
 #+BEGIN_SRC shell
 sudo apt-get install git

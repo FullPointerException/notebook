@@ -1,14 +1,13 @@
 * What is this?
-	This is a collection of notes on various software tools
+This is a collection of notes on various software tools
 * UML
 ** TODO PlantUML
 * Graph 
 ** TODO Graphviz
-
 * Emacs
 ** Navigation
 *** Opening a file
-	C-x C-f opens find file
+C-x C-f opens find file
 *** File navigation
 | Behavior  | Forward | Reverse |
 |-----------+---------+---------|
@@ -17,44 +16,38 @@
 | Character | C-f     | C-b     |
 |           |         |         |
 *** Buffers 
-	C-x C-b opens buffer menu in new window
-	C-x o switches to that window
+C-x C-b opens buffer menu in new window
+C-x o switches to that window
 *** Windows
-	C-x o switches windows
-	C-x 0 kills the current windo
-	C-x 3 opens a second window vertically
+C-x o switches windows
+C-x 0 kills the current windo
+C-x 3 opens a second window vertically
 ** Keyboard shortcuts
 ** File Editing
 *** Deleting
-	|               Behavior               |              Keys              |
-	|--------------------------------------+--------------------------------|
-	| Delete to end of line                | C-k                            |
-	| Delete all whitespace at end of line | M-x delete-trailing-whitespace |
+| Behavior                             | Keys                           |
+|--------------------------------------+--------------------------------|
+| Delete to end of line                | C-k                            |
+| Delete all whitespace at end of line | M-x delete-trailing-whitespace |
+** Inspection
+- M-x describe-variable to get variable info and value
 ** Org mode
 *** Keyboard shortcuts
-	S-Left / S-Right: Cycle TODOs
-	M-Left/M-Right: Increase/Decrease Header level
-	Tab: Expand cycle
-	S-Tab: Global expand cycle
+S-Left / S-Right: Cycle TODOs
+M-Left/M-Right: Increase/Decrease Header level
+Tab: Expand cycle
+S-Tab: Global expand cycle
 *** Links
 - https://orgmode.org/worg/org-tutorials/org4beginners.html
 - https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 - https://dale.io/blog/automated-org-publishing.html
 - https://opensource.com/article/20/3/blog-emacs
 *** TODO Babel Integration
-
-* Sublime
-** Org
-	- Alt+o, i, h -> new heading
-	- Alt+o, i, c -> new subheading
-	- Alt+o, c, s -> checklist summary
-	- Alt+o, t -> toggle
-	- Ctrl+Enter -> insert new heading/list element/ etc.
 * PX4
 ** Commander
-	commander arm
-	commander takeoff
+commander arm
+commander takeoff
 * Git
 ** Tagging
-   git tag git v1.2
-   git push origin --tags
+git tag git v1.2
+git push origin --tags

@@ -1,31 +1,29 @@
 * Windows boot time
-	- [ ] [[https://superuser.com/questions/1081485/windows-10-boot-suddenly-takes-10-20-minutes][Stack overflow page]]
-
+- [ ] [[https://superuser.com/questions/1081485/windows-10-boot-suddenly-takes-10-20-minutes][Stack overflow page]]
 * Software
-  - [ ] TinkerCAD
-  - [ ] Octopi + Octoprint
-
+ - [ ] TinkerCAD
+ - [ ] Octopi + Octoprint
 * 3D Printers
 ** Printers
-  - [ ] Tevo tornado
-  - [ ] Ender
-  - [ ] Prussa
+- [ ] Tevo tornado
+- [ ] Ender
+- [ ] Prussa
 ** Filament
-  - esun pla+
+- esun pla+
 ** Profiles
-  - reddit /u/siepie profile
-  - 3dprintedtabletop youtube
-  - tombof3dprintedhorrors youtube
+- reddit /u/siepie profile
+- 3dprintedtabletop youtube
+- tombof3dprintedhorrors youtube
 ** Software
 ** Prints
-   - try thangs.com
-   - Wall Mount Key Hanger by Electrosync
-   - the rock memes
-   - youtbe 3dprinty
-   - rolling storage box 3d printy
-   - hex bit storage box
-   - coin sorter
-   - screw, bolt,  nut jig
-   - card deck holder
-   - catan
-   - SotM card attached spindown counters
+- try thangs.com
+- Wall Mount Key Hanger by Electrosync
+- the rock memes
+- youtbe 3dprinty
+- rolling storage box 3d printy
+- hex bit storage box
+- coin sorter
+- screw, bolt,  nut jig
+- card deck holder
+- catan
+- SotM card attached spindown counters
