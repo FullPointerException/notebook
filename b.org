@@ -14,7 +14,7 @@
 - 8-10 oz grilled meat
 - 3 cups veggies
 ** TODO The Kitchn Power Hour Meal Prep
-Article: [[thekitchn.com/meal-prep-plan-for-1500-calories-261270][How I Prep A Week Of Easy 1500-Calorie Days]]
+Article: [[https://www.thekitchn.com/meal-prep-plan-for-1500-calories-261270][How I Prep A Week Of Easy 1500-Calorie Days]]
 *** Meals
 **** Breakfast
 ***** Oatmeal cups
@@ -105,9 +105,9 @@ Article: [[https://www.thekitchn.com/recipe-spicy-salmon-black-bean-salad-244647
 ***** Shredded Rotiesserie Chicken
 ***** Mix-and-match components
 ** TODO Trifecta Clean Eating Meal Plan
-Article: [[https://www.trifectanutrition.com/blog/clean-eating-meal-plan-full-21-day-menu-1500-calories][Clean Eating Meal Plan: Full 21 Day Menu (1500 Calorie)]]
+Article: [[https://www.trifectanutrition.com/blog/clean-eating-meal-plan-full-21-day-menu-1500-calorie][Clean Eating Meal Plan: Full 21 Day Menu (1500 Calorie)]]
 ** TODO EatingWell 7-Day Diet Meal Plan
-Article [[https://www.eatingwell.com/article/287714/7-day-diet-meail-plan-to-lose-weight-1500-calories][7-Day Diet Meal Plan to Lose Weight: 1,500 Calores]]
+Article [[https://www.eatingwell.com/article/287714/7-day-diet-meal-plan-to-lose-weight-1500-calories][7-Day Diet Meal Plan to Lose Weight: 1,500 Calores]]
 ** TODO EatingWeel 1500 Calorie Day
 Article [[https://www.eatingwell.com/article/57461/what-does-a-1500-calorie-day-look-like/][What Does a 1,500-Calorie Day Look Like?]]
 * Exercise
