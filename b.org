@@ -1,0 +1,219 @@
+* Diet
+** Arnold Cut Phase 1
+*** Meal 1
+- 4 whole eggs
+- 1/4 cup oats
+*** Meal 2
+- 8-10 oz Grilled Meat
+- 3 Cups Veggies
+- 1 Serving almonds
+*** Meal 3
+- 2 cups non-fat cottage cheese
+- 1 serving almonds
+*** Meal 4
+- 8-10 oz grilled meat
+- 3 cups veggies
+** TODO The Kitchn Power Hour Meal Prep
+Article: [[thekitchn.com/meal-prep-plan-for-1500-calories-261270][How I Prep A Week Of Easy 1500-Calorie Days]]
+*** Meals
+**** Breakfast
+***** Oatmeal cups
+Article: [[https://www.thekitchn.com/how-to-make-tender-baked-oatmeal-cups-242475][Tender Baked Oatmeal Cups]]
+****** Ingredients
+- Cooking spray
+- 2 large eggs
+- 1 1/2 cups milk
+- 1/2 cup unsweetened applesauce (or other fruit puree)
+- 1/4 cup nut butter or 2 tbsp melted unsalted butter or coconut oil
+- 1/4 cup maple syrup or honey, or 3 tablespoons packed brown sugar
+- 1 teaspoon vanilla extract
+- 3 cups old-fashioned oats
+- 1 teaspoon baking powder
+- 1 teaspoon ground cinnamon
+- 1/2 teaspoon fine salt
+- 1/2 cup chopped nuts, pumpkin or sunflower seeds, coconut flakes
+- 1/2 cup raisins or other chopped dried fruit
+****** Instructions
+1. Put rack in middle oven oven and heat to 350 F.
+2. Coat the wells of a 12-well muffin tin with cooking spray.
+3. Place the eggs, milk, applesauce, nut butter, maple syrup, and vanilla in a medium bowl and whisk until smooth.
+4. Add the oats, baking powder, cinnamon, and salt. Fold with a rubber spatula until combined.
+5. Divide the oatmeal mixture among the muffin wells, filling each one up to the top.
+6. Sprinkle muffins with nuts and dried fruit. Gently press the toppings into the batter.
+7. Bake 25-30 minutes, until slightly risen, dry on top, and golden brown.
+8. Cool in the pan for 5 minutes.
+9. Run a knife around each muffen and remove to cool
+****** Nutrition
+|           |         <r> |        |
+| Serving   | 1.5 muffins |        |
+| Calories  |         256 |        |
+| Fat       |       11.8g | 18.2 % |
+| Saturated |        5.3g | 26.5 % |
+| Carbs     |       31.9g |  10.6% |
+| Fiber     |        3.2g |  12.6% |
+| Sugar     |       10.2g |        |
+| Protein   |        7.2g |  14.5% |
+| Sodium    |    232.4 mg |   9.7% |
+**** Lunch
+***** Spicy Salmon Black Bean Salad
+Article: [[https://www.thekitchn.com/recipe-spicy-salmon-black-bean-salad-244647][Spicy Salmon Black Bean Salad]]
+****** Ingredients
+- 4oz hot smoked salmon
+- 1 (15-oz) can black beans, drained and rinsed
+- 1/2 medium avocado, diced
+- 1/2 cup cherry tomatoes, halved
+- 1 tablespoon freshly squeezed lime juice
+- 1 teaspoon olive oil
+- 1/4 teaspoon ground cumin
+- 1/8 teaspoon kosher salt
+- pinch cayenne pepper
+****** Instructions
+1. Flake the salmon in a medium bowl using a fork
+2. Add the remaining ingredients
+3. Gently toss to combine
+****** Nutrition
+|           |        <r> |       |
+| serving   | 1/4 recipe |       |
+| calories  |        185 |       |
+| fat       |       6.4g |  9.9% |
+| saturated |       1.0g |  5.2% |
+| carbs     |      21.0g |  7.0% |
+| fiber     |       9.3g | 37.2% |
+| sugars    |       1.1g |       |
+| protein   |      12.3g | 24.7% |
+| sodium    |    399.2mg | 16.6% |
+***** Hard-Boiled Eggs
+****** Nutrition
+|             |   <r> |
+| serving     | 1 egg |
+| calories    |    78 |
+| fat         |    5g |
+| saturated   |    2g |
+| sodium      |  62mg |
+| carbs       |    1g |
+| sugar       |    1g |
+| protein     |    6g |
+| cholesterol | 187mg |
+***** Mix-and-match components
+****** Whole wheat pita bread
+****** Cooked farro
+****** Salad greens
+****** Pesto
+**** TODO Snacks
+**** TODO Dinner
+***** Turkey Meatballs
+***** Shredded Rotiesserie Chicken
+***** Mix-and-match components
+** TODO Trifecta Clean Eating Meal Plan
+Article: [[https://www.trifectanutrition.com/blog/clean-eating-meal-plan-full-21-day-menu-1500-calories][Clean Eating Meal Plan: Full 21 Day Menu (1500 Calorie)]]
+** TODO EatingWell 7-Day Diet Meal Plan
+Article [[https://www.eatingwell.com/article/287714/7-day-diet-meail-plan-to-lose-weight-1500-calories][7-Day Diet Meal Plan to Lose Weight: 1,500 Calores]]
+** TODO EatingWeel 1500 Calorie Day
+Article [[https://www.eatingwell.com/article/57461/what-does-a-1500-calorie-day-look-like/][What Does a 1,500-Calorie Day Look Like?]]
+* Exercise
+** Cool Cicadas PPL
+*** Push (Chest/Triceps/Shoulders)
+- Flat Barbell Bench Press: 3x5
+- Seated (or Standing) Barbell Shoulder / Overhead Press: 3x5
+- Incline Barbell Bench Press: 3x5
+- Dumbbell Side Lateral Raise: 3x10-12
+- Overhead Dumbbell Extension or similar triceps exercise: 3x10
+- Shrugs (circuit machine or dumbbells): 3x10-12
+*** Pull (Back/Biceps):
+- Barbell Rolls: 3x5
+- Lat Pulldowns with (Long Bar or V-bar) (circuit machine): 3x8-10
+- Face-pulls: 3x10-12
+- Barbell Bicep Curls (Alternate between close and normal grip): 4x10-12
+- Choice of one other bicep exercise (typically Hammer Curls): 3x10-12
+- (optional) Deadlift: 1x5
+*** Legs (Quad/Ham/Calves):
+- Barbell Squats 4x5-6
+- Leg Press (optional if already doing above squats): 3x8-10
+- Leg Extensions (circuit machine): 3x10-12
+- Hamstring Curls (circuit machine): 3x10-12
+- Standing Calf Raises (circuit machine): 5x10-12
+** Arnorld Blueprint
+*** Methods
+**** 1-10
+After a warmup setor two, find a weight you can only do one rep. After you perform that 1 rep, take just enough weight off to be able to perform 2 reps. From here, do the same for 3 reps and 4 reps, going all the way up to 10 reps.
+**** Stripping
+After a warmup, do 5 reps then immediately take weight off and go for another 5-8 reps. Repeat this process, reducing the weight, until you're just at the bar. Rep the bar for 20 reps.
+**** Running The Rack
+Go down in dumbbell weight and increasing reps.
+**** 1/4 Rep
+Do an additional 1/4 movement at the end of the rep.
+**** 28
+7 regular reps, 7 extra slow reps, 7 1/2 reps at the top, and 7 1/2 reps at the bottom
+**** 5-Count
+5 seconds up and 5 seconds down
+**** Max Effort
+Work up to the max weight using the following rep counts: 20, 15, 10, 8, 5, 3, 1, 1, 1(max)
+*** Gains
+*** Cuts
+**** Phase 1 Weeks 1-4
+*Reminder*: Post workout, run 1-2 miles as fast as possible 3-5 times per week
+
+*Rest Periods*: drink water (30-45 seconds) between sets
+***** Chest / Back
+Monday & Thursday
+
+Excercises
+| Exercise              | Sets |               Reps | Notes                              |
+|-----------------------+------+--------------------+------------------------------------|
+| Bench Press           |    6 | 30, 10, 10, 10,  5 | *Week 3* Do 1 max effort rep       |
+| Wide Grip Chins       |      | 10, 10, 10, 10, 10 | Add weight if needed               |
+|-----------------------+------+--------------------+------------------------------------|
+| Incline Barbell Bench |    5 |                  8 |                                    |
+| T-Bar Rows            |      |                 10 | Use *1/4 Rep* method               |
+|-----------------------+------+--------------------+------------------------------------|
+| Flat Dumbbell Flyes   |    5 |                 12 | Use *Running The Rack* on last set |
+| Seated Cable Row      |      |                 12 |                                    |
+|-----------------------+------+--------------------+------------------------------------|
+| Dips                  |    4 |                 10 | Add weight if needed               |
+| Close-Grip Chin Ups   |      |                 10 |                                    |
+|-----------------------+------+--------------------+------------------------------------|
+| Dumbbell Pullovers    |    3 |                 12 |                                    |
+| Cable Crossovers      |      |                 12 |                                    |
+***** Legs
+Tuesday & Friday
+
+Exercises
+| Exercise             | Sets | Reps | Notes                                                    |
+|----------------------+------+------+----------------------------------------------------------|
+| Squats               |    8 |   12 | Deep Reps                                                |
+|----------------------+------+------+----------------------------------------------------------|
+| Leg Extensions       |   10 |   10 | Use *Stripping* method on last set                       |
+| Leg Curls            |      |   10 | Use *1/4 rep* method. Use *Stripping* method on last set |
+|----------------------+------+------+----------------------------------------------------------|
+| Standing Calf Raises |   10 |   10 | Use *5 Count* method                                     |
+***** Arms
+Wednesday
+
+Exercises
+| Exercise                           | Sets |                 Reps | Notes                                                    |
+|------------------------------------+------+----------------------+----------------------------------------------------------|
+| Barbell Curls                      |    5 |               12 + 6 | Use *5 Count* method for last 6 reps                     |
+| Skullcrusher                       |      |                   15 |                                                          |
+|------------------------------------+------+----------------------+----------------------------------------------------------|
+| Dumbbell Hammer Curls              |    5 |                   12 | Use *Stripping* method on last set                       |
+| Straight Bar Pushdowns             |      | 20 full + 20 partial | Use *1/4 Rep* method on partial reps                     |
+|------------------------------------+------+----------------------+----------------------------------------------------------|
+| Incline Alternating Dumbbell Curls |    3 |                6 + 4 | 5-Count Twist at bottom of first 6. Use *5 Count* method |
+| Overhead Rope Press                |      |                   15 |                                                          |
+|------------------------------------+------+----------------------+----------------------------------------------------------|
+| Concentration Curl                 |    5 |                   12 |                                                          |
+| 1-Arm Kickback                     |      |                   12 |                                                          |
+***** Shoulders
+Saturday
+
+Exercises
+| Exercise                          | Sets |           Reps | Notes                                     |
+|-----------------------------------+------+----------------+-------------------------------------------|
+| Overhead Presses                  |    4 |            5-6 | Seated or standing                        |
+|-----------------------------------+------+----------------+-------------------------------------------|
+| Arnold Presses                    |    5 | 10, 8, 6, 6, 8 |                                           |
+| Barbell Upright Rows              |      |           8-10 |                                           |
+|-----------------------------------+------+----------------+-------------------------------------------|
+| Dumbbell Lateral Raises           |    3 |          10-12 |                                           |
+| Dumbbell Bent-Over Lateral Raises |    3 |          10-12 | Use *Running The Rack* method on last set |
+
