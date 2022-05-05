@@ -52,6 +52,7 @@
 - [ ] Cut middle shelf
 - [X] Tape closet
 - [X] Tape down plastic
+- [X] Paint closet walls
 - [ ] Attach middle shelf
 - [ ] Pick shelf color
 - [ ] Paint shelves

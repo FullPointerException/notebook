@@ -26,20 +26,23 @@
 23. [ ] Luxio F
 24. [ ] Luxray M
 25. [ ] Luxray F
-
-[ ] Wurmple
-[ ] Silcoon
-[ ] Beautifly
-[ ] Cascoon
-[ ] Dustox
-[ ] Ponyta
-[ ] Rapidash
-[ ] Eevee
-[ ] Vaporeon
-[ ] Jolteon
-[ ] Flareon
-[ ] Espeon
-[ ] Umbreon
+26. [ ] Wurmple
+27. [ ] Silcoon
+28. [ ] Beautifly M
+29. [ ] Beautifly F
+30. [ ] Cascoon
+*** Pasture 02
+1. [ ] Dustox M
+2. [ ] Dustox F
+3. [ ] Ponyta
+4. [ ] Rapidash
+5. [ ] Eevee M
+6. [ ] Eevee F
+7. [ ] Vaporeon
+8. [ ] Jolteon
+9. [ ] Flareon
+10. [ ] Espeon
+11. [ ] Umbreon
  - [ ] Lefeon
  - [ ] Glaceon
  - [ ] Sylveon
