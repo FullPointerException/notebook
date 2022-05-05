@@ -1,34 +1,45 @@
-* Alpha form dex [/]
- - [ ] Rowlet
- - [ ] Dartrix
- - [ ] Decidueye
- - [ ] Cyndaquil
- - [ ] Quilava
- - [ ] Typholsion
- - [ ] Oshawott
- - [ ] Dewott
- - [ ] Samurott
- - [ ] Bidoof
- - [ ] Bibabrel
- - [ ] Starly
- - [ ] Staravia
- - [ ] Starraptor
- - [ ] Shinx
- - [ ] Luxio
- - [ ] Luxray
- - [ ] Wurmple
- - [ ] Silcoon
- - [ ] Beautifly
- - [ ] Cascoon
- - [ ] Dustox
- - [ ] Ponyta
- - [ ] Rapidash
- - [ ] Eevee
- - [ ] Vaporeon
- - [ ] Jolteon
- - [ ] Flareon
- - [ ] Espeon
- - [ ] Umbreon
+* Arceus
+** Alpha form dex
+*** Pasture 01
+1. [ ] Rowlet
+2. [ ] Dartrix
+3. [ ] Decidueye
+4. [ ] Cyndaquil
+5. [ ] Quilava
+6. [ ] Typholsion
+7. [ ] Oshawott
+8. [ ] Dewott
+9. [ ] Samurott
+10. [ ] Bidoof M
+11. [ ] Bidoof F
+12. [ ] Bibarel M
+13. [ ] Bibarel F
+14. [ ] Starly M
+15. [ ] Starly F
+16. [ ] Staravia M
+17. [ ] Staravia F
+18. [ ] Starraptor M
+19. [ ] Starraptor F
+20. [ ] Shinx M
+21. [ ] Shinkx F
+22. [ ] Luxio M
+23. [ ] Luxio F
+24. [ ] Luxray M
+25. [ ] Luxray F
+
+[ ] Wurmple
+[ ] Silcoon
+[ ] Beautifly
+[ ] Cascoon
+[ ] Dustox
+[ ] Ponyta
+[ ] Rapidash
+[ ] Eevee
+[ ] Vaporeon
+[ ] Jolteon
+[ ] Flareon
+[ ] Espeon
+[ ] Umbreon
  - [ ] Lefeon
  - [ ] Glaceon
  - [ ] Sylveon

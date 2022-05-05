@@ -19,3 +19,10 @@ fi' HEAD
 #+BEGIN_SRC sh
  git push origin +master
 #+END_SRC
+* Tagging
+** Create simple tag and push
+#+Name: simple tag
+#+BEGIN_SRC sh
+git tag my-tag-name-v123
+git push origin --tags
+#+END_SRC

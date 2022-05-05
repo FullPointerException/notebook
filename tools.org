@@ -47,7 +47,3 @@ S-Tab: Global expand cycle
 ** Commander
 commander arm
 commander takeoff
-* Git
-** Tagging
-git tag git v1.2
-git push origin --tags

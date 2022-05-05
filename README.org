@@ -1,2 +1,2 @@
-# notebook
+* Notebook
 Collection of various notes
