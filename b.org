@@ -1,4 +1,27 @@
 * Diet
+** Arnold Mass Phase 1
+*** Meal 1
+**** Option 1
+- 3-4 whole eggs
+- 2 pieces bacon
+- 1-2 pieces Ezekiel bread w/ almond butter, cashew butter, or 1/4 avocado
+**** Option 2
+- 3-4 whole eggs
+- 2 pieces bacon
+- 1/3 cup oats
+- 1 tbsp honey
+*** Meal 2
+- 10oz grilled meat (fish / red meat reccommended)
+- 1 cup veggies or large salad
+- 2-3 oz almonds, walnuts, or cashews
+- 1-2 sweet potatoes
+*** Meal 3
+- 12 oz grilled meat (lean meat reccommended)
+- 1-2 cups veggies or large salad
+- 1-2 cups brown rice
+*** Meal 4
+- 2 cups full fat cottage cheese
+- 2-3 oz serving of almonds, walnut, or cashews
 ** Arnold Cut Phase 1
 *** Meal 1
 - 4 whole eggs
@@ -132,7 +155,7 @@ Article [[https://www.eatingwell.com/article/57461/what-does-a-1500-calorie-day-
 - Leg Extensions (circuit machine): 3x10-12
 - Hamstring Curls (circuit machine): 3x10-12
 - Standing Calf Raises (circuit machine): 5x10-12
-** Arnorld Blueprint
+** Arnold Blueprint
 *** Methods
 **** 1-10
 After a warmup setor two, find a weight you can only do one rep. After you perform that 1 rep, take just enough weight off to be able to perform 2 reps. From here, do the same for 3 reps and 4 reps, going all the way up to 10 reps.
@@ -149,6 +172,96 @@ Do an additional 1/4 movement at the end of the rep.
 **** Max Effort
 Work up to the max weight using the following rep counts: 20, 15, 10, 8, 5, 3, 1, 1, 1(max)
 *** Gains
+**** Phase 1 Weeks 1-4
+***** Chest
+Monday & Thursday
+
+Reps for all exercises
+| Week | Reps                 | Incline      | Notes                                                 |
+|------+----------------------+--------------+-------------------------------------------------------|
+|    1 | 30, 12, 10, 8, 6     | Low angle    |                                                       |
+|    2 | 30, 8, 6, 4, 2       | Medium angle | After completing Flat Barbell, use *Stripping* method |
+|    3 | 30, 5, 5, 5, 5, 5, 5 | High angle   |                                                       |
+|    4 | 20, 15, 12           | Low angle    | Max out on either flat or incline                     |
+****** Flat Barbell Bench Press
+****** Incline Barbell Bench Press
+****** Superset Dumbell Flyes + Dumbell Pullover
+***** Back
+Monday & Thursday
+****** Wide Grip Chin Up
+4 sets to failure
+****** Superset 2 of Bent over rows +Dumbbell Rows + Tbar rows
+| Week | Reps             |
+|------+------------------|
+|    1 | 30, 12, 10, 8, 6 |
+|    2 | 30, 8, 6, 4, 2   |
+|    3 | 30, 12, 10, 8, 6 |
+|    4 | 20, 15, 12       |
+***** Abs
+Monday & Thursday
+****** Leg Raises
+5 sets, 25 reps
+***** Shoulders
+Tuesday & Friday
+****** Clean & Press (Tuesday)
+5 sets, 5 reps
+****** Arnold Press (Friday)
+5 sets, 5 reps
+****** Superset Dumbell Press + Full Frontal Raise (Tuesday)
+| Week | Reps              | Notes                                          |
+|------+-------------------+------------------------------------------------|
+|    1 | 30, 12, 10, 8, 6  |                                                |
+|    2 | 30, 8, 6, 4, 2    |                                                |
+|    3 | 30, 5, 5, 5, 5, 5 |                                                |
+|    4 | 20, 15, 12, 10    | Max out 1 major exercise instead of these reps |
+****** Superset Behind-The-Neck Press + Full Frontal Raise (Friday)
+see above
+****** Superset Lateral Raises + Upright Rows (Tuesday)
+see above
+****** Superset Rear Delt Flyes + Upright Rows (Friday)
+see above
+
+for flyes, laying face down on an incline bench
+***** Arms
+Tuesday & Friday
+
+All exercises
+| Week | Reps              | Notes                    |
+|------+-------------------+--------------------------|
+|    1 | 30, 12, 10, 8, 6  |                          |
+|    2 | 30, 8, 6, 4, 2    |                          |
+|    3 | 30, 5, 5, 5, 5, 5 |                          |
+|    4 | 20, 15, 12, 10    | Max out 1 major exercise |
+****** Barbell Curls
+Weeks 2&3 use *1-10* Method
+****** Superset: Seated Incline 2-Arm Dumbbell Curls + Concentration Curls
+****** Close-Grip Bench Press
+****** Superset Barbell Skull-Crushers + 1-Arm Overhead Dumbbell Extension (Tuesday)
+****** Superset Tricep Pushdown + 1-Arm Overhead Dumbbell Extension (Friday)
+****** Superset Wrist Curls + Reverse Wrist Curls
+***** Abs
+Tuesday & Friday
+****** Decline 3/4 Sit-ups
+5 sets, 25 reps
+
+optional: replace with roman chairs
+***** Legs
+Wednesday & Saturday
+****** Squats (Wednesday) / Front Squats (Saturday)
+5 sets, 8-12 reps
+****** Straight-Leg Deadlifts (Wednesday) / Deadlifts (Saturday)
+10, 6,4 or 5, 5, 5 or 12, 10, 8
+****** Good Mornings (Wednesday)
+5 sets, 8-12 resps
+****** Lunges
+5 sets, 8-12 reps
+****** Superset Leg Extension + Leg Curls
+5 sets, 8-12 reps
+****** Superset Standing + Seated Calf Raises
+5 sets, 8-12 reps
+***** Abs
+****** Kneeling Cable Crunch
+4 sets, 25 reps
 *** Cuts
 **** Phase 1 Weeks 1-4
 *Reminder*: Post workout, run 1-2 miles as fast as possible 3-5 times per week

@@ -4,7 +4,7 @@
   	- Demon
   	- Heroes cannot win
   	- Enters play: set HP to 5
-  	- EOT: If 3 environment relics are in play, restore Doug to full HP. Move Doug to the villain play area and turn him into a villain target.
+  	- EOT: If 3 environment relics are in play, restore Doug to full HP.
   	- SOT: Doug deals the Hero with the highest HP {H} infernal damage.
   - [ ] Doug's sword
   	- 10 HP
