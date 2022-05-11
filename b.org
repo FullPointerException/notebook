@@ -155,6 +155,29 @@ Article [[https://www.eatingwell.com/article/57461/what-does-a-1500-calorie-day-
 - Leg Extensions (circuit machine): 3x10-12
 - Hamstring Curls (circuit machine): 3x10-12
 - Standing Calf Raises (circuit machine): 5x10-12
+** Arnold Other
+*** Home Workout Quarantine Edition
+Do that many reps, in however many sets it takes
+| Exercise            | Beginner | Advanced |
+|---------------------+----------+----------|
+| Push Ups            |       25 |       50 |
+| Dips Between Chairs |       20 |       50 |
+| Row Between Chairs  |       30 |       50 |
+| Sit Ups             |       30 |      100 |
+| Bent Leg Raises     |       25 |       50 |
+| Bent Over Twists    |       25 |       50 |
+| Knee Bends (Squats) |       25 |       75 |
+| Calf Raises         |       25 |       50 |
+| Chin Ups            |       10 |       30 |
+*** Golden 6
+| Exercise                       | Sets |    Reps |
+|--------------------------------+------+---------|
+| Barbell Squat                  |    4 |      10 |
+| Wide Grip Barbell Bench Press  |    3 |      10 |
+| Chin-Up                        |    3 | Failure |
+| Behind The Neck Overhead Press |    4 |      10 |
+| Barbell Curl                   |    3 |      10 |
+| Bent Knee Sit Up               |  3/4 | Failure |
 ** Arnold Blueprint
 *** Methods
 **** 1-10

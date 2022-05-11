@@ -10,16 +10,16 @@
 7. [ ] Oshawott
 8. [ ] Dewott
 9. [ ] Samurott
-10. [ ] Bidoof M
-11. [ ] Bidoof F
-12. [ ] Bibarel M
-13. [ ] Bibarel F
-14. [ ] Starly M
-15. [ ] Starly F
-16. [ ] Staravia M
-17. [ ] Staravia F
-18. [ ] Starraptor M
-19. [ ] Starraptor F
+10. [X] Bidoof M
+11. [X] Bidoof F
+12. [X] Bibarel M
+13. [X] Bibarel F
+14. [X] Starly M
+15. [X] Starly F
+16. [X] Staravia M
+17. [X] Staravia F
+18. [X] Starraptor M
+19. [X] Starraptor F
 20. [ ] Shinx M
 21. [ ] Shinkx F
 22. [ ] Luxio M

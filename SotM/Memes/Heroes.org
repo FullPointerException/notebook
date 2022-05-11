@@ -14,6 +14,8 @@
 	- Power: Play a card. Use a power. Draw a card.
 * The unnaturalist
   - Power: Search your hand, deck, and discard pile for all forms and play them. Use a power. Use a power. Use a power.
+* Absolute 1
+  - deal 1 target 1 cold damage. 1 Hero may play 1 card. 1 hero may use 1 power. 1 hero may draw 1 card. 1 target gains 1 HP. Destroy 1 environment card.
 * Chando
 	- Wendy
 	- Flower tummy wendy
