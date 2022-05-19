@@ -5,13 +5,7 @@
 - nlohmann json
 - Command line tee
 - unix pipes
-* Bday
-** Shopping
-- [ ] Drinks
-- [ ] Punch
-- [ ] Snacks
-- [ ] Frames
-- [ ] Party Hats
+* Chores
 ** Yard
 - [ ] Mow
 - [ ] Weed Eat
@@ -23,7 +17,11 @@
 - [X] Garden plot 3
 - [X] Garden plot 4
 - [X] Garden plot 5
-- [ ] Weed
+- [ ] Weed plot 1
+- [ ] Weed plot 2
+- [ ] Weed plot 3
+- [ ] Weed plot 4
+- [ ] Weed plot 5
 - [ ] Front porch clean
 - [ ] Back slab clean
 - [ ] Back porch clean

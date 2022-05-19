@@ -1,3 +1,4 @@
+#+STARTUP: content
 * Diet
 ** Arnold Mass Phase 1
 *** Meal 1
@@ -133,6 +134,67 @@ Article: [[https://www.trifectanutrition.com/blog/clean-eating-meal-plan-full-21
 Article [[https://www.eatingwell.com/article/287714/7-day-diet-meal-plan-to-lose-weight-1500-calories][7-Day Diet Meal Plan to Lose Weight: 1,500 Calores]]
 ** TODO EatingWeel 1500 Calorie Day
 Article [[https://www.eatingwell.com/article/57461/what-does-a-1500-calorie-day-look-like/][What Does a 1,500-Calorie Day Look Like?]]
+** Muscle and Fitness 8-week diet
+[[https://muscleandfitness.com/muscle-fitness-hers/hers-nutrition/8-week-diet-plan-six-pack-abs][link]]
+*** Phase 1 (Weeks 1-2)
+**** Breakfast
+- 4 egg whites
+- 1 whole egg
+- 3 oz. chicken breast
+- 1/2 cup green pepper
+- 1 medium apple
+
+**** TODO Snack
+- Coconut-Lime Chicken Bites with Baked Zucchini Fries
+  - 2 large egg whites
+  - 1 tbsp lime juice
+  - 6 tbsp unsweetened coconut, finely shredded
+  - 2 4oz chicken breasts, boneless, skinless
+  - 1 medium zucchini
+  - 1/2 tsp garlic powder
+  - cayenne pepper
+  - black pepper
+
+**** Lunch
+- 4 oz turkey breast, boneless, skinless
+- 1/2 cup brown cooked rice
+- 1 cup broccoli, steamed
+- 1/2 large grapefruit
+
+**** Snack
+- 2/3 cup cottage cheese
+- 1/4 cup blueberries
+- 10 almonds, chopped
+
+**** TODO Dinner
+- Spicy Citrus Shrimp with Quinoa
+  - 1 cup quinoa, cooked
+  - 1/2 tbsp extra-light olive oil
+  - 1 tsp garlic
+  - 1/2 tsp horseradish
+  - 1/2 tbsp honey
+  - 1/2 tbsp lemon juice
+  - 1/2 tbsp lime juice
+  - 1/2 lb (8 oz) raw shrimp, peeled, deveined
+  - 1/4 tsp lime zest
+  - 1/4 tsp lemon zest
+  - 1/2 tbsp fresh parsley, chopped
+  - Crushed red chilis to taste
+
+**** Bedtime
+- 20g whey protein isolate
+- 1/2 tbsp peanut butter natural
+
+**** Daily Totals:
+- *Calories*: 1480
+- *Protein*: 169g
+- *Carbs*: 199g
+- *Fat*: 40g
+
+*** Phase 2 (Weeks 3-4)
+*** Phase 3 (Weeks 5-6)
+*** Phase 4 (Weeks 7-8)
+
 * Exercise
 ** Cool Cicadas PPL
 *** Push (Chest/Triceps/Shoulders)
@@ -352,4 +414,20 @@ Exercises
 |-----------------------------------+------+----------------+-------------------------------------------|
 | Dumbbell Lateral Raises           |    3 |          10-12 |                                           |
 | Dumbbell Bent-Over Lateral Raises |    3 |          10-12 | Use *Running The Rack* method on last set |
+** Magnificent 7 Ab Circuit
+In order as a circuit,  no rest between exercises, 2 min between rounds.
+*** Sit-up
+3 sets, 12-15 reps
+*** Lying Leg Raise
+3 sets, 12-15 reps
+*** V-up
+3 sets, 12-15 reps
+*** Seated Leg Tuck
+3 sets, 12-15 reps
+*** Toe Touch
+3 sets, 12-15 reps
+*** Crunches
+3 sets, 12-15 reps
+*** Reverse Crunch
+3 sets, 12-15 reps
 
