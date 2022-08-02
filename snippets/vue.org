@@ -1,0 +1,11 @@
+* Vue Snippets
+
+To create a new project:
+#+begin_src sh
+vue create hello-world
+#+end_src
+
+To launch:
+#+begin_src sh
+npm run serve
+#+end_src

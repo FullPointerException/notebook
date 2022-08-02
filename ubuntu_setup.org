@@ -102,6 +102,43 @@ ssh-keygen -t rsa -b 4096 -C "email@email.com"
 Add key to bitbucket
 
 Add key to github
+** JS Things
+*** Node.js
+TODO make sure curl is installed
+
+Pull and install node.js Check [[https://github.com/nodesource/distributions/blob/master/README.md#debinstall][nodesource github]] for the correct setup version.
+#+begin_src sh
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudeo -E bash -
+sudo apt-get install -y nodejs
+#+end_src
+
+Check the nodejs and npm versions
+#+begin_src sh
+node --version
+npm --version
+#+end_src
+*** Linter
+Install eslint
+#+begin_src sh
+sudo apt-get install eslint
+#+end_src
+
+*** Vue
+Install vue
+#+begin_src sh
+npm install -g @vue/cli
+#+end_src
+
+Check version
+#+begin_src sh
+vue --version
+#+end_src
+
+Install language server
+#+begin_src sh
+npm install -g vue-language-server
+#+end_src
+
 
 * Automated Setup
 #+NAME: Ubuntu scripted setup
