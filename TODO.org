@@ -7,21 +7,9 @@
 - unix pipes
 * Chores
 ** Yard
-- [ ] Mow
-- [ ] Weed Eat
 - [ ] Pressure wash walk up
 - [ ] Trim bushes
 - [ ] Clean up limbs
-- [X] Garden plot 1
-- [X] Garden plot 2
-- [X] Garden plot 3
-- [X] Garden plot 4
-- [X] Garden plot 5
-- [ ] Weed plot 1
-- [ ] Weed plot 2
-- [ ] Weed plot 3
-- [ ] Weed plot 4
-- [ ] Weed plot 5
 - [ ] Front porch clean
 - [ ] Back slab clean
 - [ ] Back porch clean
@@ -47,26 +35,22 @@
 - [ ] Fix lamp
 - [ ] Dust shelves / cubbies
 *** Master closet
-- [ ] Cut middle shelf
+- [X] Cut middle shelf
 - [X] Tape closet
 - [X] Tape down plastic
 - [X] Paint closet walls
-- [ ] Attach middle shelf
-- [ ] Pick shelf color
-- [ ] Paint shelves
-- [ ] Install shelves
-- [ ] Buy rods
-- [ ] Paint rods
+- [X] Attach middle shelf
+- [X] Pick shelf color
+- [X] Paint shelves
+- [X] Install shelves
+- [X] Buy rods
 - [ ] Install rods
-- [ ] Buy top shelf
+- [X] Buy top shelf
 - [ ] Paint top shelf
 - [ ] Paint top shelf runners
 - [ ] Install top shelf runners
 - [ ] Install top shelf
 - [ ] Put things in closet
-- [ ] Buy trim?
-- [ ] Paint trim?
-- [ ] Install trim?
 - [ ] Hat pegs
 *** Stairs bath
 - [ ] Baseboards
